@@ -1,0 +1,1587 @@
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <link href="//haitao.nos.netease.com" rel="dns-prefetch">
+    <link href="//nos.netease.com" rel="dns-prefetch">
+    <link href="//mm.bst.126.net" rel="dns-prefetch">
+    <title>D2C《我的新衣》</title>
+    <meta content="telephone=no" name="format-detection" />
+    <meta content="email=no" name="format-detection" />
+    <meta name="keywords" content="网易考拉海购"/>
+    <meta name="description" content="网易考拉海购-安全、放心的在跨境电子商务网站，官方认证，保证正品。网购进口母婴用品、化妆品、进口食品、电子数码，更多产品正陆续推出。"/>
+    <meta name="renderer" content="webkit">
+    <link rel="shortcut icon" href="/favicon.ico"/>
+    <script>
+    window.NRUM = window.NRUM || {};
+    window.NRUM.config = {key:'a124d270740e4ff8e93d9235ec6a367d',clientStart: +new Date()};
+    (function() {var n = document.getElementsByTagName('script')[0],s = document.createElement('script');s.async = 'async';s.src = 'http://apmsdk.nos.netease.com/napm-web-min-1.1.0.js';n.parentNode.insertBefore(s, n);})();
+    </script>
+<link rel="stylesheet" href="http://mm.bst.126.net/r/core.css?df99fe8bba34b943f5e9ea5242d9fead"/>
+<link rel="stylesheet" href="http://mm.bst.126.net/r/pt_pages_activity_activityTpl_activityTpl.css?11e4e03fba95dfd44244dda6dc1a1ae0"/>
+<link rel="canonical" href="http://www.kaola.com/activity/detail/17439.shtml"/>
+<!--[if IE]>
+<script type="text/javascript">
+(function(){if(!/*@cc_on!@*/0)return;var e = "abbr,article,aside,audio,bb,canvas,datagrid,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(','),i=e.length;while(i--){document.createElement(e[i])}})()
+</script>
+<![endif]-->
+</head>
+<body id="index-netease-com">
+    <nav id="topNav">
+      <div id="topNavWrap" class="clearfix">
+        <div id="topNavLeft"></div>
+        <div id="topNavLeft2">
+        	<a class="app" href="http://app.kaola.com" rel="nofollow" data-param="from=topDownload&zn=top">
+        		<i class="iconfont icn">&#xe64b;</i>手机考拉海购 <span class="m-notice">
+  						<img src="http://mm.bst.126.net/images/index/2dcode-app3.jpg?v=1" width="116px" height="116px">
+  						<strong class="txt">下载APP<br>领1000元新人礼包</strong>
+  						<span class="arrow">
+  							<span class="arr"></span>
+  							<span class="arr1"></span>
+  						</span>
+  					</span>
+        	</a>
+        </div>
+        <ul id="topNavRight">
+            <li class="dropmenu greenhand" id="js-greenhand" data-isindex="0">
+            	<div class="mcDropMenuBox ">
+                <a class="toplevel topNavHolder nolink" href="javascript:void(0)"  rel="nofollow"><i class="w-icon w-icon-speaker">&nbsp;</i>新人礼</a><span class="sep">|</span>
+                <div class="mcDropMenu">
+    							<img alt="新人礼" id="js-greenhandimg"/>
+    							<p>新人礼已放入您的购物车，您只需结算和新人礼相同仓库的商品即可免费拿走它!</p>
+                </div>
+              </div>
+            </li>
+            <li>
+              <a href="javascript:;" class="toplevel newnav checkin" rel="nofollow"><i class="iconfont icn">&#xe649;</i>每日签到</a><span class="sep">|</span>
+            </li>
+            <li><a class="toplevel" href="http://www.kaola.com/personal/my_order_new.html" user="true" rel="nofollow" data-param="zn=top">我的订单</a><span class="sep">|</span></li>
+            <li class="dropmenu personal" id="j-dropmenuPersonal">
+            	<div class="mcDropMenuBox">
+                <a class="toplevel topNavHolder" href="http://www.kaola.com/personal/my_order_new.html" user="true" rel="nofollow" data-param="zn=top">个人中心<i class="arr"></i><em class="w-icon w-icon-14" style="display:none;" id="personalTips"></em></a><span class="sep">|</span>
+                <div class="mcDropMenu">
+                    <a href="http://www.kaola.com/personal/my_coupon.html" user="true" rel="nofollow" data-param="zn=top"><span class="cnt">我的优惠券<i class="w-icon w-icon-15" style="display:none;" id="couponTip"></i></span></a>
+                    <a href="/personal/my_point/index.html" user="true" rel="nofollow" data-param="zn=top">
+                    	<span class="cnt">我的考拉豆</span>
+                    </a>
+                    <span class="spliter"></span>
+                    <a href="http://www.kaola.com/personal/account_security.html" user="true" rel="nofollow" data-param="zn=top"><span class="cnt">账户安全</span></a>
+                    <a href="http://www.kaola.com/personal/authentication.html" user="true" rel="nofollow" data-param="zn=top"><span class="cnt">我的实名认证</span></a>
+                    <span class="spliter"></span>
+      							<a href="http://www.kaola.com/personal/listfavorite.html" user="true" rel="nofollow" data-param="zn=top"><span class="cnt">我收藏的商品</span></a>
+      							<a href="http://www.kaola.com/personal/brands.html" user="true" rel="nofollow" data-param="zn=top"><span class="cnt">我关注的品牌</span></a>
+                    <span class="spliter"></span>
+                    <a href="http://www.kaola.com/personal/service_records.html" user="true" rel="nofollow" data-param="zn=top"><span class="cnt">售后管理<i class="w-icon w-icon-14" style="display:none;" id="aftersaleTip"></i></span></a>
+                	  <a id="mypartnerTop" style="display:none;" href="http://www.kaola.com/personal/my_partner_team.html" user="true" rel="nofollow" data-param="zn=top"><span class="cnt">我的合伙人</span></a>
+                </div>
+              </div>
+            </li>
+            <li class="dropmenu service">
+              	<div class="mcDropMenuBox">
+	                <a class="toplevel topNavHolder nolink" href="javascipt:void(0);" rel="nofollow">客户服务<i class="arr"></i></a><span class="sep">|</span>
+	                <div class="mcDropMenu">
+	                	<a class="contact" rel="nofollow" data-category="联系客服" data-event="顶部通栏点击数" data-label=""><i class="w-icon w-icon-contact"></i>联系客服</a>
+	                    <a class="help" href="http://www.kaola.com/footer/faq.shtml" rel="nofollow" data-param="zn=top"><i class="w-icon w-icon-help">&nbsp;</i>帮助中心</a>
+	                </div>
+	            </div>
+            </li>
+            <li class="gameRecharge"><a class="toplevel" id="gameRecharge" href="http://game.kaola.com/" rel="nofollow" data-param="zn=top"><i class="iconfont icn">&#xe641;</i>游戏充值</a><span class="sep">|</span></li>
+            <li class="cinform"><a class="toplevel" id="customerInform" href="http://www.kaola.com/footer/inform.shtml" rel="nofollow" data-param="zn=top">消费者告知书</a><span class="sep">|</span></li>
+            <li class="dropmenu more">
+            	<div class="mcDropMenuBox focuson">
+                <a class="toplevel topNavHolder nolink" href="javascipt:void(0);" rel="nofollow">更多<i class="arr"></i></a>
+                <div class="mcDropMenu">
+                	<a id="addFavBtn" href="javascript:;" rel="nofollow">收藏本站</a>
+                	<a class="wb clearfix" href="http://weibo.com/u/5448480859" target="_blank" rel="nofollow">
+    								<span class="txt">新浪微博</span>
+    								<span class="m-notice m-notice-1">
+						          <img src="http://mm.bst.126.net/images/index/2dcode-wb.jpg" width="100px" height="100px"/>
+						          <span class="arrow">
+						            <span class="arr"></span>
+						            <span class="arr1"></span>
+						          </span>
+						        </span>
+						      </a>
+					        <a class="nolink clearfix" href="javascript:void(0);" rel="nofollow">
+    								<span class="txt">微信公众号</span>
+    								<span class="m-notice">
+						          <img src="http://mm.bst.126.net/images/index/2dcode-wx.jpg" width="100px" height="100px"/>
+						          <span class="arrow">
+						            <span class="arr"></span>
+						            <span class="arr1"></span>
+						          </span>
+						        </span>
+  							  </a>
+    							<a class="yixin nolink clearfix" href="javascript:void(0);" rel="nofollow">
+    								<span class="txt">易信公众号</span>
+    								<span class="m-notice m-notice-2">
+    						          <img src="http://mm.bst.126.net/images/index/2dcode-yx.jpg" width="100px" height="100px"/>
+    						          <span class="arrow">
+    						            <span class="arr"></span>
+    						            <span class="arr1"></span>
+    						          </span>
+    						        </span>
+    							</a>
+					        <a class="cooperation" href="http://www.kaola.com/merchants.html?type=en" rel="nofollow" data-param="zn=top">招商合作</a>
+                	<a class="richjob" href="http://hr.163.com/zc/kaola/index.html" rel="nofollow" data-param="zn=top" target="_blank">考拉招聘</a>
+                </div>
+              </div>
+            </li>
+        </ul>
+      </div>
+    </nav>
+    <nav id="topTabPlaceHolder" class="f-dn"></nav>
+    <header id="docHead" class="j-indexTopFixed">
+        <div id="docHeadWrap">
+            <a href="http://www.kaola.com/" class="iconfont logokaola" title="网易考拉海购" data-param="zn=top">&#xe634;</a>
+            <div class="logo f-dn"><a class="iconfont" href="http://www.kaola.com/" data-param="zn=top">&#xe640;</a></div>
+                <div class="m-searchiptbox m-searchiptbox-1">
+                    <div id="topsearchbox">
+        	            <div id="topsearch">
+        		            <div class="wrap">
+        		              <input id="topSearchInput" type="text" placeholder="限量版可乐"  />
+        		            </div><span id="topSearchBtn" class="w-icon w-icon-27"></span>
+        	            	<span class="w-icon w-icon-26"></span>
+        	            </div>
+                        <div class="m-searchhint">
+                            <ul id="searchhintlist" style="display:none;"></ul>
+                        </div>
+                    </div>
+                		<ul id="suggestlist" class="m-suggestlist clearfix">
+                    				<li>
+                					<a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=iPhone7" datakey="iPhone7"
+                					>iPhone7</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=卫生巾" datakey="卫生巾"
+                					>卫生巾</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=护手霜" datakey="护手霜"
+                					>护手霜</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=男包" datakey="男包"
+                					>男包</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=周生生" datakey="周生生"
+                					>周生生</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=bikkle" datakey="bikkle"
+                					>bikkle</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=奥尔滨" datakey="奥尔滨"
+                					>奥尔滨</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=咖啡" datakey="咖啡"
+                					>咖啡</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=贝亲" datakey="贝亲"
+                					>贝亲</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=兰芝" datakey="兰芝"
+                					>兰芝</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                    						href="http://www.kaola.com/activity/detail/16796.shtml?zn=top&amp;searchRefer=suggestion&amp;referPosition=11"
+>中秋好礼</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=爬行垫" datakey="爬行垫"
+                					>爬行垫</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=月饼" datakey="月饼"
+                					>月饼</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=收纳" datakey="收纳"
+                					>收纳</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=卸妆" datakey="卸妆"
+                					>卸妆</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=牙膏" datakey="牙膏"
+                					>牙膏</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=洗面奶" datakey="洗面奶"
+                					>洗面奶</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=earth best" datakey="earth best"
+                					>earth best</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=耐克" datakey="耐克"
+                					>耐克</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=A2奶粉" datakey="A2奶粉"
+                					>A2奶粉</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=双黄莲蓉月月饼" datakey="双黄莲蓉月月饼"
+                					>双黄莲蓉月月饼</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=尤妮佳" datakey="尤妮佳"
+                					>尤妮佳</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=i k" datakey="i k"
+                					>i k</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=嘉宝DHA米粉" datakey="嘉宝DHA米粉"
+                					>嘉宝DHA米粉</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=cpb" datakey="cpb"
+                					>cpb</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=科颜氏" datakey="科颜氏"
+                					>科颜氏</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=雅诗兰黛" datakey="雅诗兰黛"
+                					>雅诗兰黛</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=花王" datakey="花王"
+                					>花王</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=洗发水" datakey="洗发水"
+                					>洗发水</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=潘多拉" datakey="潘多拉"
+                					>潘多拉</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=雪花秀" datakey="雪花秀"
+                					>雪花秀</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=悦诗风吟" datakey="悦诗风吟"
+                					>悦诗风吟</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="bold showcolor suggestitem"
+                    						href="http://www.kaola.com/activity/detail/11835.shtml?zn=top&amp;searchRefer=suggestion&amp;referPosition=33"
+>游戏充值</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=眼霜" datakey="眼霜"
+                					>眼霜</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=口红" datakey="口红"
+                					>口红</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=雷朋" datakey="雷朋"
+                					>雷朋</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=手表" datakey="手表"
+                					>手表</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=面膜" datakey="面膜"
+                					>面膜</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=防晒" datakey="防晒"
+                					>防晒</a>
+                                </li>
+                    				<li>
+                					<span class="sep">|</span><a target="_blank" class="suggestitem"
+                						href="/search.html?zn=top&key=爱他美" datakey="爱他美"
+                					>爱他美</a>
+                                </li>
+                    		</ul>
+                 </div>
+                  <a target="_blank" href="http://www.kaola.com/cart.html" data-param="from=navigation&zn=top" rel="nofollow" class="m-shopcartnew m-shopcartnew-1">
+                    <i class="iconfont">&#xe637;</i><span class="wrap">购物车<b class="num" id="newcartnum">0</b></span>
+	            </a>
+        </div>
+    </header>
+    <nav id="topTabBox">
+        <div id="topTab" class="clearfix">
+            <div id="topCats" class="navitm-cats z-unfold">
+              <div class="toplevel">
+                <div class="lineicon"><i></i><i></i><i></i></div><span>所有分类</span>
+              </div>
+                  <ul class="catitmlst j-catmenu">
+                        <li class="catli j-catli" style="height: 40px;"
+                          data-index="0" data-effect="1"
+                          data-categoryId="2619"
+                          data-link="http://www.kaola.com/activity/detail/11990.shtml?zn=top&zp=category-1">
+<img class="icon" src="http://haitao.nosdn3.127.net/iqkplg1m99_40_40.png?imageView&thumbnail=20x20&quality=100"><span class="t">母婴儿童</span><i class="iconfont arr">&#xe61f;</i><em class="vcenter"></em>                          <em class="seg"></em>
+                        </li>
+                        <li class="catli j-catli" style="height: 40px;"
+                          data-index="1" data-effect="1"
+                          data-categoryId="1470"
+                          data-link="http://www.kaola.com/activity/detail/3219.shtml?zn=top&zp=category-2">
+<img class="icon" src="http://haitao.nosdn5.127.net/iqkpnez751_40_40.png?imageView&thumbnail=20x20&quality=100"><span class="t">美容彩妆</span><i class="iconfont arr">&#xe61f;</i><em class="vcenter"></em>                          <em class="seg"></em>
+                        </li>
+                        <li class="catli j-catli" style="height: 40px;"
+                          data-index="2" data-effect="1"
+                          data-categoryId="2892"
+                          data-link="http://www.kaola.com/activity/detail/11856.html?zn=top&zp=category-3">
+<img class="icon" src="http://haitao.nosdn3.127.net/iqkpo5f994_40_40.png?imageView&thumbnail=20x20&quality=100"><span class="t">服饰鞋包</span><i class="iconfont arr">&#xe61f;</i><em class="vcenter"></em>                          <em class="seg"></em>
+                        </li>
+                        <li class="catli j-catli" style="height: 40px;"
+                          data-index="3" data-effect="1"
+                          data-categoryId="2722"
+                          data-link="http://www.kaola.com/activity/detail/11667.html?zn=top&zp=category-4">
+<img class="icon" src="http://haitao.nosdn3.127.net/iqkpow3285_40_40.png?imageView&thumbnail=20x20&quality=100"><span class="t">家居生活</span><i class="iconfont arr">&#xe61f;</i><em class="vcenter"></em>                          <em class="seg"></em>
+                        </li>
+                        <li class="catli j-catli" style="height: 40px;"
+                          data-index="4" data-effect="1"
+                          data-categoryId="2883"
+                          data-link="http://www.kaola.com/activity/detail/12026.html?zn=top&zp=category-5">
+<img class="icon" src="http://haitao.nosdn5.127.net/iqkpq2ue80_40_40.png?imageView&thumbnail=20x20&quality=100"><span class="t">营养保健</span><i class="iconfont arr">&#xe61f;</i><em class="vcenter"></em>                          <em class="seg"></em>
+                        </li>
+                        <li class="catli j-catli" style="height: 40px;"
+                          data-index="5" data-effect="1"
+                          data-categoryId="3667"
+                          data-link="http://www.kaola.com/activity/detail/12116.html?zn=top&zp=category-6">
+<img class="icon" src="http://haitao.nosdn1.127.net/iqkptd2291_40_40.png?imageView&thumbnail=20x20&quality=100"><span class="t">海外直邮</span><i class="iconfont arr">&#xe61f;</i><em class="vcenter"></em>                          <em class="seg"></em>
+                        </li>
+                        <li class="catli j-catli" style="height: 40px;"
+                          data-index="6" data-effect="1"
+                          data-categoryId="6781"
+                          data-link="http://www.kaola.com/activity/detail/11893.shtml?zn=top&zp=category-7">
+<img class="icon" src="http://haitao.nosdn1.127.net/iqkpsh0e98_40_40.png?imageView&thumbnail=20x20&quality=100"><span class="t">数码家电</span><i class="iconfont arr">&#xe61f;</i><em class="vcenter"></em>                          <em class="seg"></em>
+                        </li>
+                        <li class="catli j-catli" style="height: 40px;"
+                          data-index="7" data-effect="1"
+                          data-categoryId="2885"
+                          data-link="http://www.kaola.com/activity/detail/11884.html?zn=top&zp=category-8">
+<img class="icon" src="http://haitao.nos.netease.com/iqkpr75617_40_40.png?imageView&thumbnail=20x20&quality=100"><span class="t">环球美食</span><i class="iconfont arr">&#xe61f;</i><em class="vcenter"></em>                          <em class="seg"></em>
+                        </li>
+                        <li class="catli j-catli" style="height: 40px;"
+                          data-index="8" data-effect="1"
+                          data-categoryId="9693"
+                          data-link="http://www.kaola.com/activity/detail/14748.shtml?zn=top&zp=category-9">
+<img class="icon" src="http://haitao.nosdn2.127.net/ir26dxt121_40_40.png?imageView&thumbnail=20x20&quality=100"><span class="t">运动户外</span><i class="iconfont arr">&#xe61f;</i><em class="vcenter"></em>                          <em class="seg"></em>
+                        </li>
+                        <li class="catli j-catli" style="height: 40px;"
+                          data-index="9" data-effect="1"
+                          data-categoryId="9610"
+                          data-link="http://www.kaola.com/activity/detail/14929.shtml?zn=top&zp=category-10">
+<img class="icon" src="http://haitao.nosdn4.127.net/iqsu18g169_40_40.png?imageView&thumbnail=20x20&quality=100"><span class="t">水果生鲜</span><i class="iconfont arr">&#xe61f;</i><em class="vcenter"></em>                          
+                        </li>
+                  </ul>
+            </div>
+            <ul id="funcTab" class="clearfix">
+                    <li class="navitm " data-effect="1">
+                        <a class="toplevel" href="http://www.kaola.com" data-param="navindex=1&zn=top" target="_blank">
+                            首页
+                        </a>
+                    </li>
+                    <li class="navitm " data-effect="1">
+                        <a class="toplevel" href="http://www.kaola.com/activity/flashSaleIndex/show.html" data-param="navindex=2&zn=top" target="_blank">
+                            今日限时购
+                        </a>
+                    </li>
+                    <li class="navitm " data-effect="1">
+                        <a class="toplevel" href="http://www.kaola.com/activity/newArrival.html" data-param="navindex=3&zn=top" target="_blank">
+                            每日上新
+                        </a>
+                    </li>
+                    <li class="navitm " data-effect="1">
+                        <a class="toplevel" href="http://www.kaola.com/activity/detail/12897.shtml" data-param="navindex=4&zn=top" target="_blank">
+                            排行榜
+                        </a>
+                    </li>
+                    <li class="navitm " data-effect="1">
+                        <a class="toplevel" href="http://www.kaola.com/activity/detail/11653.shtml" data-param="navindex=5&zn=top" target="_blank">
+                            国家馆
+                        </a>
+                    </li>
+                    <li class="navitm " data-effect="1">
+                        <a class="toplevel" href="http://rakuten.kaola.com" data-param="navindex=6&zn=top" target="_blank">
+                            日本乐天市场
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    </nav>
+<div id="body" style="background-color:#f5f6f1;background-repeat:repeat;">
+  <article class="imgWrap" id="zid_4543454656" >
+
+      <section class="imglayout1 " style="height:1056px;overflow:hidden;">
+        <div class="oneimg" style="height:1056px;background:url(http://haitao.nos.netease.com/isvn47bo31_1920_1056.jpg?imageView&amp;thumbnail=0x1056&amp;quality=90) no-repeat center top;"></div>
+      </section> 
+  </article>
+  <article class="imgWrap" id="zid_9787755517" >
+
+      <section class="imglayout1 " style="height:807px;overflow:hidden;">
+        <div class="oneimg" style="height:807px;background:url(http://haitao.nosdn3.127.net/isvnwzur64_1116_807.jpg?imageView&amp;thumbnail=0x807&amp;quality=90) no-repeat center top;"></div>
+      </section> 
+  </article>
+  <article class="imgWrap" id="zid_6893938046" >
+
+      <section class="imglayout1 " style="height:366px;overflow:hidden;">
+        <div class="oneimg" style="height:366px;background:url(http://haitao.nosdn5.127.net/isvnytz080_1116_366.jpg?imageView&amp;thumbnail=0x366&amp;quality=90) no-repeat center top;"></div>
+      </section> 
+  </article>
+  <article class="imgWrap" id="zid_8100631347" >
+
+      <section class="imglayout1 " style="height:948px;overflow:hidden;">
+        <div class="oneimg" style="height:948px;background:url(http://haitao.nos.netease.com/isvo0ax726_1116_948.jpg?imageView&amp;thumbnail=0x948&amp;quality=90) no-repeat center top;"></div>
+      </section> 
+  </article>
+  <article class="imgWrap" id="zid_9780199566" >
+
+      <section class="imglayout1 " style="height:1240px;overflow:hidden;">
+        <div class="oneimg" style="height:1240px;background:url(http://haitao.nosdn1.127.net/isxanhhh55_1920_1240.jpg?imageView&amp;thumbnail=0x1240&amp;quality=90) no-repeat center top;"></div>
+      </section> 
+  </article>
+<article id="zid_5409608390"  class="m-goodsarea js-goodsarea" style="background-repeat:repeat;">
+<section class="lineOfFour">
+<div class="goodsWrap clearfix">
+<div class="detailWrap clearfix" goodsId="1363307">
+    <a class="pic" href="http://www.kaola.com/product/1363307.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product1&amp;zn=4-2" data-actda="4-2@@6@@1@@http://www.kaola.com/product/1363307.html" target="_blank" title="D2C 我的新衣 《华丽上班族》主题 王欧同款 拼接蝴蝶结衬衫">
+  <img class="proImg img-lazyload" 
+       src="http://mm.bst.126.net/images/blank.gif" 
+       lazyload="http://pop.nosdn.127.net/0ad92127-ee54-4a63-8715-f321380ce863?imageView&amp;thumbnail=330x330"
+       data-src="http://pop.nosdn.127.net/0ad92127-ee54-4a63-8715-f321380ce863?imageView&amp;thumbnail=330x330"
+       alt="D2C 我的新衣 《华丽上班族》主题 王欧同款 拼接蝴蝶结衬衫" 
+       title="D2C 我的新衣 《华丽上班族》主题 王欧同款 拼接蝴蝶结衬衫" >
+  <span class="proComment" hasComment="0">
+    <span class="bg"></span>
+    <span class="noComment">新品上线，赶快来试试吧！</span>
+  </span>
+
+<img class="w-brand-img" src="http://haitao.nos.netease.com/iczukrul93.JPG" alt="中国" title="中国" />
+
+    </a>
+    <div class="proinfo">
+<h3 class="tit"><a class="titLink" target="_blank" href="http://www.kaola.com/product/1363307.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product1&amp;zn=4-2" data-actda="" title="D2C 我的新衣 王欧同款 拼接蝴蝶结衬衫">D2C 我的新衣 王欧同款 拼接蝴蝶结衬衫</a><a target="_blank" href="http://www.kaola.com/product/1363307.html"  data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product1&amp;zn=4-2" data-actda="" title="初秋风格最适合当下">初秋风格最适合当下</a></h3><ul class="tags clearfix">
+  <li class="tagItem">包邮</li>
+</ul>
+<p class="w-price"><strong><span class="symbol"><b></b>¥</span>388</strong><i class="tl">¥<del>769</del></i></p>
+            <a class="cart-btn cart-btn-1" 
+               href="http://www.kaola.com/product/1363307.html" 
+               data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product1&amp;zn=4-2" 
+               data-actda="4-2@@6@@1@@http://www.kaola.com/product/1363307.html"
+               target="_blank" 
+               title="立即购买" 
+               rel="nofollow"
+               style="background-color:#d22147;color:#ffffff"
+            >立即购买</a>    </div>
+</div>
+<div class="detailWrap clearfix" goodsId="1363323">
+    <a class="pic" href="http://www.kaola.com/product/1363323.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product2&amp;zn=4-2" data-actda="4-2@@6@@2@@http://www.kaola.com/product/1363323.html" target="_blank" title="D2C 我的新衣《华丽上班族》主题 王欧同款 时尚拼接飘逸阔腿裤">
+  <img class="proImg img-lazyload" 
+       src="http://mm.bst.126.net/images/blank.gif" 
+       lazyload="http://pop.nosdn.127.net/a5887a2d-baf6-4487-9b90-8da95ac3ee09?imageView&amp;thumbnail=330x330"
+       data-src="http://pop.nosdn.127.net/a5887a2d-baf6-4487-9b90-8da95ac3ee09?imageView&amp;thumbnail=330x330"
+       alt="D2C 我的新衣《华丽上班族》主题 王欧同款 时尚拼接飘逸阔腿裤" 
+       title="D2C 我的新衣《华丽上班族》主题 王欧同款 时尚拼接飘逸阔腿裤" >
+  <span class="proComment" hasComment="0">
+    <span class="bg"></span>
+    <span class="noComment">新品上线，赶快来试试吧！</span>
+  </span>
+
+<img class="w-brand-img" src="http://haitao.nos.netease.com/iczukrul93.JPG" alt="中国" title="中国" />
+
+    </a>
+    <div class="proinfo">
+<h3 class="tit"><a class="titLink" target="_blank" href="http://www.kaola.com/product/1363323.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product2&amp;zn=4-2" data-actda="" title="D2C 我的新衣 王欧战队 飘逸阔腿裤">D2C 我的新衣 王欧战队 飘逸阔腿裤</a><a target="_blank" href="http://www.kaola.com/product/1363323.html"  data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product2&amp;zn=4-2" data-actda="" title="气质非凡时尚高雅">气质非凡时尚高雅</a></h3><ul class="tags clearfix">
+  <li class="tagItem">包邮</li>
+</ul>
+<p class="w-price"><strong><span class="symbol"><b></b>¥</span>649</strong><i class="tl">¥<del>999</del></i></p>
+            <a class="cart-btn cart-btn-1" 
+               href="http://www.kaola.com/product/1363323.html" 
+               data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product2&amp;zn=4-2" 
+               data-actda="4-2@@6@@2@@http://www.kaola.com/product/1363323.html"
+               target="_blank" 
+               title="立即购买" 
+               rel="nofollow"
+               style="background-color:#d22147;color:#ffffff"
+            >立即购买</a>    </div>
+</div>
+<div class="detailWrap clearfix" goodsId="1363310">
+    <a class="pic" href="http://www.kaola.com/product/1363310.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product3&amp;zn=4-2" data-actda="4-2@@6@@3@@http://www.kaola.com/product/1363310.html" target="_blank" title="D2C 我的新衣 《华丽上班族》主题 王欧战队 喇叭袖漏肩上衣">
+  <img class="proImg img-lazyload" 
+       src="http://mm.bst.126.net/images/blank.gif" 
+       lazyload="http://pop.nosdn.127.net/a7995ec3-ed96-4e1d-87ec-f3c965117afb?imageView&amp;thumbnail=330x330"
+       data-src="http://pop.nosdn.127.net/a7995ec3-ed96-4e1d-87ec-f3c965117afb?imageView&amp;thumbnail=330x330"
+       alt="D2C 我的新衣 《华丽上班族》主题 王欧战队 喇叭袖漏肩上衣" 
+       title="D2C 我的新衣 《华丽上班族》主题 王欧战队 喇叭袖漏肩上衣" >
+  <span class="proComment" hasComment="0">
+    <span class="bg"></span>
+    <span class="noComment">新品上线，赶快来试试吧！</span>
+  </span>
+
+<img class="w-brand-img" src="http://haitao.nos.netease.com/iczukrul93.JPG" alt="中国" title="中国" />
+
+    </a>
+    <div class="proinfo">
+<h3 class="tit"><a class="titLink" target="_blank" href="http://www.kaola.com/product/1363310.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product3&amp;zn=4-2" data-actda="" title="D2C 我的新衣 王欧战队 喇叭袖漏肩上衣">D2C 我的新衣 王欧战队 喇叭袖漏肩上衣</a><a target="_blank" href="http://www.kaola.com/product/1363310.html"  data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product3&amp;zn=4-2" data-actda="" title="优雅的漏肩诱惑">优雅的漏肩诱惑</a></h3><ul class="tags clearfix">
+  <li class="tagItem">包邮</li>
+</ul>
+<p class="w-price"><strong><span class="symbol"><b></b>¥</span>428</strong><i class="tl">¥<del>659</del></i></p>
+            <a class="cart-btn cart-btn-1" 
+               href="http://www.kaola.com/product/1363310.html" 
+               data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product3&amp;zn=4-2" 
+               data-actda="4-2@@6@@3@@http://www.kaola.com/product/1363310.html"
+               target="_blank" 
+               title="立即购买" 
+               rel="nofollow"
+               style="background-color:#d22147;color:#ffffff"
+            >立即购买</a>    </div>
+</div>
+<div class="detailWrap clearfix" goodsId="1363312">
+    <a class="pic" href="http://www.kaola.com/product/1363312.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product4&amp;zn=4-2" data-actda="4-2@@6@@4@@http://www.kaola.com/product/1363312.html" target="_blank" title="D2C 我的新衣 职场主题《华丽上班族》王欧战队 喇叭袖经典衬衣">
+  <img class="proImg img-lazyload" 
+       src="http://mm.bst.126.net/images/blank.gif" 
+       lazyload="http://pop.nosdn.127.net/d0bc1ecc-a28b-44b2-83d8-2b62a7c2d702?imageView&amp;thumbnail=330x330"
+       data-src="http://pop.nosdn.127.net/d0bc1ecc-a28b-44b2-83d8-2b62a7c2d702?imageView&amp;thumbnail=330x330"
+       alt="D2C 我的新衣 职场主题《华丽上班族》王欧战队 喇叭袖经典衬衣" 
+       title="D2C 我的新衣 职场主题《华丽上班族》王欧战队 喇叭袖经典衬衣" >
+  <span class="proComment" hasComment="0">
+    <span class="bg"></span>
+    <span class="noComment">新品上线，赶快来试试吧！</span>
+  </span>
+
+<img class="w-brand-img" src="http://haitao.nos.netease.com/iczukrul93.JPG" alt="中国" title="中国" />
+
+    </a>
+    <div class="proinfo">
+<h3 class="tit"><a class="titLink" target="_blank" href="http://www.kaola.com/product/1363312.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product4&amp;zn=4-2" data-actda="" title="D2C 我的新衣 王欧战队 喇叭袖经典衬衣">D2C 我的新衣 王欧战队 喇叭袖经典衬衣</a><a target="_blank" href="http://www.kaola.com/product/1363312.html"  data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product4&amp;zn=4-2" data-actda="" title="时尚百搭衣橱经典衬衣">时尚百搭衣橱经典衬衣</a></h3><ul class="tags clearfix">
+  <li class="tagItem">包邮</li>
+</ul>
+<p class="w-price"><strong><span class="symbol"><b></b>¥</span>715</strong><i class="tl">¥<del>1069</del></i></p>
+            <a class="cart-btn cart-btn-1" 
+               href="http://www.kaola.com/product/1363312.html" 
+               data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product4&amp;zn=4-2" 
+               data-actda="4-2@@6@@4@@http://www.kaola.com/product/1363312.html"
+               target="_blank" 
+               title="立即购买" 
+               rel="nofollow"
+               style="background-color:#d22147;color:#ffffff"
+            >立即购买</a>    </div>
+</div>
+<div class="detailWrap clearfix" goodsId="1363314">
+    <a class="pic" href="http://www.kaola.com/product/1363314.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product5&amp;zn=4-2" data-actda="4-2@@6@@5@@http://www.kaola.com/product/1363314.html" target="_blank" title="D2C 我的新衣《华丽上班族》主题 王鸥战队 金属质感摩登黑皮裙">
+  <img class="proImg img-lazyload" 
+       src="http://mm.bst.126.net/images/blank.gif" 
+       lazyload="http://pop.nosdn.127.net/531bb7fa-eaa1-4338-a09c-1ca804c777b8?imageView&amp;thumbnail=330x330"
+       data-src="http://pop.nosdn.127.net/531bb7fa-eaa1-4338-a09c-1ca804c777b8?imageView&amp;thumbnail=330x330"
+       alt="D2C 我的新衣《华丽上班族》主题 王鸥战队 金属质感摩登黑皮裙" 
+       title="D2C 我的新衣《华丽上班族》主题 王鸥战队 金属质感摩登黑皮裙" >
+  <span class="proComment" hasComment="0">
+    <span class="bg"></span>
+    <span class="noComment">新品上线，赶快来试试吧！</span>
+  </span>
+
+<img class="w-brand-img" src="http://haitao.nos.netease.com/iczukrul93.JPG" alt="中国" title="中国" />
+
+    </a>
+    <div class="proinfo">
+<h3 class="tit"><a class="titLink" target="_blank" href="http://www.kaola.com/product/1363314.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product5&amp;zn=4-2" data-actda="" title="D2C 我的新衣 王欧战队 摩登黑皮裙">D2C 我的新衣 王欧战队 摩登黑皮裙</a><a target="_blank" href="http://www.kaola.com/product/1363314.html"  data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product5&amp;zn=4-2" data-actda="" title="十足摩登魅力感">十足摩登魅力感</a></h3><ul class="tags clearfix">
+  <li class="tagItem">包邮</li>
+</ul>
+<p class="w-price"><strong><span class="symbol"><b></b>¥</span>799</strong><i class="tl">¥<del>1399</del></i></p>
+            <a class="cart-btn cart-btn-1" 
+               href="http://www.kaola.com/product/1363314.html" 
+               data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product5&amp;zn=4-2" 
+               data-actda="4-2@@6@@5@@http://www.kaola.com/product/1363314.html"
+               target="_blank" 
+               title="立即购买" 
+               rel="nofollow"
+               style="background-color:#d22147;color:#ffffff"
+            >立即购买</a>    </div>
+</div>
+<div class="detailWrap clearfix" goodsId="1363313">
+    <a class="pic" href="http://www.kaola.com/product/1363313.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product6&amp;zn=4-2" data-actda="4-2@@6@@6@@http://www.kaola.com/product/1363313.html" target="_blank" title="D2C 我的新衣 职场主题《华丽上班族》主题 王欧战队 时尚镂空衬衣">
+  <img class="proImg img-lazyload" 
+       src="http://mm.bst.126.net/images/blank.gif" 
+       lazyload="http://pop.nosdn.127.net/f059ab94-62e8-441b-81a5-b29f800fe3b8?imageView&amp;thumbnail=330x330"
+       data-src="http://pop.nosdn.127.net/f059ab94-62e8-441b-81a5-b29f800fe3b8?imageView&amp;thumbnail=330x330"
+       alt="D2C 我的新衣 职场主题《华丽上班族》主题 王欧战队 时尚镂空衬衣" 
+       title="D2C 我的新衣 职场主题《华丽上班族》主题 王欧战队 时尚镂空衬衣" >
+  <span class="proComment" hasComment="0">
+    <span class="bg"></span>
+    <span class="noComment">新品上线，赶快来试试吧！</span>
+  </span>
+
+<img class="w-brand-img" src="http://haitao.nos.netease.com/iczukrul93.JPG" alt="中国" title="中国" />
+
+    </a>
+    <div class="proinfo">
+<h3 class="tit"><a class="titLink" target="_blank" href="http://www.kaola.com/product/1363313.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product6&amp;zn=4-2" data-actda="" title="D2C 我的新衣 王欧战队 时尚镂空衬衣">D2C 我的新衣 王欧战队 时尚镂空衬衣</a><a target="_blank" href="http://www.kaola.com/product/1363313.html"  data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product6&amp;zn=4-2" data-actda="" title="时尚镂空简约不简单">时尚镂空简约不简单</a></h3><ul class="tags clearfix">
+  <li class="tagItem">包邮</li>
+</ul>
+<p class="w-price"><strong><span class="symbol"><b></b>¥</span>779</strong><i class="tl">¥<del>1269</del></i></p>
+            <a class="cart-btn cart-btn-1" 
+               href="http://www.kaola.com/product/1363313.html" 
+               data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product6&amp;zn=4-2" 
+               data-actda="4-2@@6@@6@@http://www.kaola.com/product/1363313.html"
+               target="_blank" 
+               title="立即购买" 
+               rel="nofollow"
+               style="background-color:#d22147;color:#ffffff"
+            >立即购买</a>    </div>
+</div>
+<div class="detailWrap clearfix" goodsId="1363326">
+    <a class="pic" href="http://www.kaola.com/product/1363326.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product7&amp;zn=4-2" data-actda="4-2@@6@@7@@http://www.kaola.com/product/1363326.html" target="_blank" title="D2C 我的新衣《华丽上班族》主题 王欧战队 钉扣廓形大衣">
+  <img class="proImg img-lazyload" 
+       src="http://mm.bst.126.net/images/blank.gif" 
+       lazyload="http://pop.nosdn.127.net/b96df0a9-cc46-4960-894d-f8b5aff80cf8?imageView&amp;thumbnail=330x330"
+       data-src="http://pop.nosdn.127.net/b96df0a9-cc46-4960-894d-f8b5aff80cf8?imageView&amp;thumbnail=330x330"
+       alt="D2C 我的新衣《华丽上班族》主题 王欧战队 钉扣廓形大衣" 
+       title="D2C 我的新衣《华丽上班族》主题 王欧战队 钉扣廓形大衣" >
+  <span class="proComment" hasComment="0">
+    <span class="bg"></span>
+    <span class="noComment">新品上线，赶快来试试吧！</span>
+  </span>
+
+<img class="w-brand-img" src="http://haitao.nos.netease.com/iczukrul93.JPG" alt="中国" title="中国" />
+
+    </a>
+    <div class="proinfo">
+<h3 class="tit"><a class="titLink" target="_blank" href="http://www.kaola.com/product/1363326.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product7&amp;zn=4-2" data-actda="" title="D2C 我的新衣 王欧战队 钉扣廓形大">D2C 我的新衣 王欧战队 钉扣廓形大</a><a target="_blank" href="http://www.kaola.com/product/1363326.html"  data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product7&amp;zn=4-2" data-actda="" title="个性时尚独显魅力">个性时尚独显魅力</a></h3><ul class="tags clearfix">
+  <li class="tagItem">包邮</li>
+</ul>
+<p class="w-price"><strong><span class="symbol"><b></b>¥</span>1429</strong><i class="tl">¥<del>2199</del></i></p>
+            <a class="cart-btn cart-btn-1" 
+               href="http://www.kaola.com/product/1363326.html" 
+               data-param="ri=17439&amp;rt=product&amp;zid=zid_5409608390&amp;zp=product7&amp;zn=4-2" 
+               data-actda="4-2@@6@@7@@http://www.kaola.com/product/1363326.html"
+               target="_blank" 
+               title="立即购买" 
+               rel="nofollow"
+               style="background-color:#d22147;color:#ffffff"
+            >立即购买</a>    </div>
+</div>
+</div>
+</section>
+</article>
+  <article class="imgWrap" id="zid_3023853532" >
+
+      <section class="imglayout1 " style="height:383px;overflow:hidden;">
+        <div class="oneimg" style="height:383px;background:url(http://haitao.nos.netease.com/isvo3riw19_1116_383.jpg?imageView&amp;thumbnail=0x383&amp;quality=90) no-repeat center top;"></div>
+      </section> 
+  </article>
+  <article class="imgWrap" id="zid_3077362704" >
+
+      <section class="imglayout1 " style="height:1166px;overflow:hidden;">
+        <div class="oneimg" style="height:1166px;background:url(http://haitao.nosdn3.127.net/isxbckvo93_1920_1166.jpg?imageView&amp;thumbnail=0x1166&amp;quality=90) no-repeat center top;"></div>
+      </section> 
+  </article>
+<article id="zid_9921503968"  class="m-goodsarea js-goodsarea" style="background-repeat:repeat;">
+<section class="lineOfFour">
+<div class="goodsWrap clearfix">
+<div class="detailWrap clearfix" goodsId="1363344">
+    <a class="pic" href="http://www.kaola.com/product/1363344.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_9921503968&amp;zp=product1&amp;zn=8-2" data-actda="8-2@@9@@1@@http://www.kaola.com/product/1363344.html" target="_blank" title="D2C 我的新衣 朱熙越 《小王子》系列 手工小王子珠花假两件外套短裤">
+  <img class="proImg img-lazyload" 
+       src="http://mm.bst.126.net/images/blank.gif" 
+       lazyload="http://pop.nosdn.127.net/3c4910ed-97f3-405b-a0da-818f73b6e0fc?imageView&amp;thumbnail=330x330"
+       data-src="http://pop.nosdn.127.net/3c4910ed-97f3-405b-a0da-818f73b6e0fc?imageView&amp;thumbnail=330x330"
+       alt="D2C 我的新衣 朱熙越 《小王子》系列 手工小王子珠花假两件外套短裤" 
+       title="D2C 我的新衣 朱熙越 《小王子》系列 手工小王子珠花假两件外套短裤" >
+  <span class="proComment" hasComment="0">
+    <span class="bg"></span>
+    <span class="noComment">新品上线，赶快来试试吧！</span>
+  </span>
+
+<img class="w-brand-img" src="http://haitao.nos.netease.com/iczukrul93.JPG" alt="中国" title="中国" />
+
+    </a>
+    <div class="proinfo">
+<h3 class="tit"><a class="titLink" target="_blank" href="http://www.kaola.com/product/1363344.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_9921503968&amp;zp=product1&amp;zn=8-2" data-actda="" title="D2C 我的新衣 朱熙越 假两件套装">D2C 我的新衣 朱熙越 假两件套装</a><a target="_blank" href="http://www.kaola.com/product/1363344.html"  data-param="ri=17439&amp;rt=product&amp;zid=zid_9921503968&amp;zp=product1&amp;zn=8-2" data-actda="" title="精致典雅显高贵气质">精致典雅显高贵气质</a></h3><ul class="tags clearfix">
+  <li class="tagItem">包邮</li>
+</ul>
+<p class="w-price"><strong><span class="symbol"><b></b>¥</span>1888</strong><i class="tl">¥<del>4999</del></i></p>
+            <a class="cart-btn cart-btn-1" 
+               href="http://www.kaola.com/product/1363344.html" 
+               data-param="ri=17439&amp;rt=product&amp;zid=zid_9921503968&amp;zp=product1&amp;zn=8-2" 
+               data-actda="8-2@@9@@1@@http://www.kaola.com/product/1363344.html"
+               target="_blank" 
+               title="立即购买" 
+               rel="nofollow"
+               style="background-color:#d22147;color:#ffffff"
+            >立即购买</a>    </div>
+</div>
+<div class="detailWrap clearfix" goodsId="1363627">
+    <a class="pic" href="http://www.kaola.com/product/1363627.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_9921503968&amp;zp=product2&amp;zn=8-2" data-actda="8-2@@9@@2@@http://www.kaola.com/product/1363627.html" target="_blank" title="D2C 我的新衣 朱熙越 《小王子》系列 前开叉设计黑色九分羊毛长裤">
+  <img class="proImg img-lazyload" 
+       src="http://mm.bst.126.net/images/blank.gif" 
+       lazyload="http://pop.nosdn.127.net/deb32d56-dc6f-4096-8610-a314b5bfc11e?imageView&amp;thumbnail=330x330"
+       data-src="http://pop.nosdn.127.net/deb32d56-dc6f-4096-8610-a314b5bfc11e?imageView&amp;thumbnail=330x330"
+       alt="D2C 我的新衣 朱熙越 《小王子》系列 前开叉设计黑色九分羊毛长裤" 
+       title="D2C 我的新衣 朱熙越 《小王子》系列 前开叉设计黑色九分羊毛长裤" >
+  <span class="proComment" hasComment="0">
+    <span class="bg"></span>
+    <span class="noComment">新品上线，赶快来试试吧！</span>
+  </span>
+
+<img class="w-brand-img" src="http://haitao.nos.netease.com/iczukrul93.JPG" alt="中国" title="中国" />
+
+    </a>
+    <div class="proinfo">
+<h3 class="tit"><a class="titLink" target="_blank" href="http://www.kaola.com/product/1363627.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_9921503968&amp;zp=product2&amp;zn=8-2" data-actda="" title="D2C 我的新衣 朱熙越 开叉九分羊毛长裤">D2C 我的新衣 朱熙越 开叉九分羊毛长裤</a><a target="_blank" href="http://www.kaola.com/product/1363627.html"  data-param="ri=17439&amp;rt=product&amp;zid=zid_9921503968&amp;zp=product2&amp;zn=8-2" data-actda="" title="时尚性感显腿长">时尚性感显腿长</a></h3><ul class="tags clearfix">
+  <li class="tagItem">包邮</li>
+</ul>
+<p class="w-price"><strong><span class="symbol"><b></b>¥</span>1235</strong><i class="tl">¥<del>1900</del></i></p>
+            <a class="cart-btn cart-btn-1" 
+               href="http://www.kaola.com/product/1363627.html" 
+               data-param="ri=17439&amp;rt=product&amp;zid=zid_9921503968&amp;zp=product2&amp;zn=8-2" 
+               data-actda="8-2@@9@@2@@http://www.kaola.com/product/1363627.html"
+               target="_blank" 
+               title="立即购买" 
+               rel="nofollow"
+               style="background-color:#d22147;color:#ffffff"
+            >立即购买</a>    </div>
+</div>
+<div class="detailWrap clearfix" goodsId="1363344">
+    <a class="pic" href="http://www.kaola.com/product/1363344.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_9921503968&amp;zp=product3&amp;zn=8-2" data-actda="8-2@@9@@3@@http://www.kaola.com/product/1363344.html" target="_blank" title="D2C 我的新衣 朱熙越 《小王子》系列 手工小王子珠花假两件外套短裤">
+  <img class="proImg img-lazyload" 
+       src="http://mm.bst.126.net/images/blank.gif" 
+       lazyload="http://pop.nosdn.127.net/3c4910ed-97f3-405b-a0da-818f73b6e0fc?imageView&amp;thumbnail=330x330"
+       data-src="http://pop.nosdn.127.net/3c4910ed-97f3-405b-a0da-818f73b6e0fc?imageView&amp;thumbnail=330x330"
+       alt="D2C 我的新衣 朱熙越 《小王子》系列 手工小王子珠花假两件外套短裤" 
+       title="D2C 我的新衣 朱熙越 《小王子》系列 手工小王子珠花假两件外套短裤" >
+  <span class="proComment" hasComment="0">
+    <span class="bg"></span>
+    <span class="noComment">新品上线，赶快来试试吧！</span>
+  </span>
+
+<img class="w-brand-img" src="http://haitao.nos.netease.com/iczukrul93.JPG" alt="中国" title="中国" />
+
+    </a>
+    <div class="proinfo">
+<h3 class="tit"><a class="titLink" target="_blank" href="http://www.kaola.com/product/1363344.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_9921503968&amp;zp=product3&amp;zn=8-2" data-actda="" title="D2C 我的新衣 朱熙越 假两件套装">D2C 我的新衣 朱熙越 假两件套装</a><a target="_blank" href="http://www.kaola.com/product/1363344.html"  data-param="ri=17439&amp;rt=product&amp;zid=zid_9921503968&amp;zp=product3&amp;zn=8-2" data-actda="" title="精致典雅显高贵气质">精致典雅显高贵气质</a></h3><ul class="tags clearfix">
+  <li class="tagItem">包邮</li>
+</ul>
+<p class="w-price"><strong><span class="symbol"><b></b>¥</span>1888</strong><i class="tl">¥<del>4999</del></i></p>
+            <a class="cart-btn cart-btn-1" 
+               href="http://www.kaola.com/product/1363344.html" 
+               data-param="ri=17439&amp;rt=product&amp;zid=zid_9921503968&amp;zp=product3&amp;zn=8-2" 
+               data-actda="8-2@@9@@3@@http://www.kaola.com/product/1363344.html"
+               target="_blank" 
+               title="立即购买" 
+               rel="nofollow"
+               style="background-color:#d22147;color:#ffffff"
+            >立即购买</a>    </div>
+</div>
+</div>
+</section>
+</article>
+  <article class="imgWrap" id="zid_4931030863" >
+
+      <section class="imglayout1 " style="height:416px;overflow:hidden;">
+        <div class="oneimg" style="height:416px;background:url(http://haitao.nosdn5.127.net/isvo0nwq17_1116_416.jpg?imageView&amp;thumbnail=0x416&amp;quality=90) no-repeat center top;"></div>
+      </section> 
+  </article>
+  <article class="imgWrap" id="zid_6452339485" >
+
+      <section class="imglayout1 " style="height:1234px;overflow:hidden;">
+        <div class="oneimg" style="height:1234px;background:url(http://haitao.nosdn2.127.net/isxa904349_1920_1234.jpg?imageView&amp;thumbnail=0x1234&amp;quality=90) no-repeat center top;"></div>
+      </section> 
+  </article>
+<article id="zid_5840169779"  class="m-goodsarea js-goodsarea" style="background-repeat:repeat;">
+<section class="lineOfFour">
+<div class="goodsWrap clearfix">
+<div class="detailWrap clearfix" goodsId="1363300">
+    <a class="pic" href="http://www.kaola.com/product/1363300.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product1&amp;zn=8-2" data-actda="8-2@@12@@1@@http://www.kaola.com/product/1363300.html" target="_blank" title="D2C 我的新衣《律政俏佳人》系 林志玲同款V领包臀连衣裙">
+  <img class="proImg img-lazyload" 
+       src="http://mm.bst.126.net/images/blank.gif" 
+       lazyload="http://pop.nosdn.127.net/3de810e0-78e9-4f40-b7de-1a0b3fed65cb?imageView&amp;thumbnail=330x330"
+       data-src="http://pop.nosdn.127.net/3de810e0-78e9-4f40-b7de-1a0b3fed65cb?imageView&amp;thumbnail=330x330"
+       alt="D2C 我的新衣《律政俏佳人》系 林志玲同款V领包臀连衣裙" 
+       title="D2C 我的新衣《律政俏佳人》系 林志玲同款V领包臀连衣裙" >
+  <span class="proComment" hasComment="0">
+    <span class="bg"></span>
+    <span class="noComment">新品上线，赶快来试试吧！</span>
+  </span>
+
+<img class="w-brand-img" src="http://haitao.nos.netease.com/iczukrul93.JPG" alt="中国" title="中国" />
+
+    </a>
+    <div class="proinfo">
+<h3 class="tit"><a class="titLink" target="_blank" href="http://www.kaola.com/product/1363300.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product1&amp;zn=8-2" data-actda="" title="D2C 我的新衣 林志玲同款V领包臀连衣裙">D2C 我的新衣 林志玲同款V领包臀连衣裙</a><a target="_blank" href="http://www.kaola.com/product/1363300.html"  data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product1&amp;zn=8-2" data-actda="" title="职场最性感服饰">职场最性感服饰</a></h3><ul class="tags clearfix">
+  <li class="tagItem">包邮</li>
+</ul>
+<p class="w-price"><strong><span class="symbol"><b></b>¥</span>799</strong><i class="tl">¥<del>1599</del></i></p>
+            <a class="cart-btn cart-btn-1" 
+               href="http://www.kaola.com/product/1363300.html" 
+               data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product1&amp;zn=8-2" 
+               data-actda="8-2@@12@@1@@http://www.kaola.com/product/1363300.html"
+               target="_blank" 
+               title="立即购买" 
+               rel="nofollow"
+               style="background-color:#d22147;color:#ffffff"
+            >立即购买</a>    </div>
+</div>
+<div class="detailWrap clearfix" goodsId="1363303">
+    <a class="pic" href="http://www.kaola.com/product/1363303.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product2&amp;zn=8-2" data-actda="8-2@@12@@2@@http://www.kaola.com/product/1363303.html" target="_blank" title="D2C 我的新衣《律政俏佳人》系列 林志玲战队条纹拼接大衣">
+  <img class="proImg img-lazyload" 
+       src="http://mm.bst.126.net/images/blank.gif" 
+       lazyload="http://pop.nosdn.127.net/6cb9392a-c91a-4138-8d1d-06756153915c?imageView&amp;thumbnail=330x330"
+       data-src="http://pop.nosdn.127.net/6cb9392a-c91a-4138-8d1d-06756153915c?imageView&amp;thumbnail=330x330"
+       alt="D2C 我的新衣《律政俏佳人》系列 林志玲战队条纹拼接大衣" 
+       title="D2C 我的新衣《律政俏佳人》系列 林志玲战队条纹拼接大衣" >
+  <span class="proComment" hasComment="0">
+    <span class="bg"></span>
+    <span class="noComment">新品上线，赶快来试试吧！</span>
+  </span>
+
+<img class="w-brand-img" src="http://haitao.nos.netease.com/iczukrul93.JPG" alt="中国" title="中国" />
+
+    </a>
+    <div class="proinfo">
+<h3 class="tit"><a class="titLink" target="_blank" href="http://www.kaola.com/product/1363303.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product2&amp;zn=8-2" data-actda="" title="D2C 我的新衣 林志玲战队条纹拼接大衣">D2C 我的新衣 林志玲战队条纹拼接大衣</a><a target="_blank" href="http://www.kaola.com/product/1363303.html"  data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product2&amp;zn=8-2" data-actda="" title="御街气质时尚大衣">御街气质时尚大衣</a></h3><ul class="tags clearfix">
+  <li class="tagItem">包邮</li>
+</ul>
+<p class="w-price"><strong><span class="symbol"><b></b>¥</span>1429</strong><i class="tl">¥<del>2199</del></i></p>
+            <a class="cart-btn cart-btn-1" 
+               href="http://www.kaola.com/product/1363303.html" 
+               data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product2&amp;zn=8-2" 
+               data-actda="8-2@@12@@2@@http://www.kaola.com/product/1363303.html"
+               target="_blank" 
+               title="立即购买" 
+               rel="nofollow"
+               style="background-color:#d22147;color:#ffffff"
+            >立即购买</a>    </div>
+</div>
+<div class="detailWrap clearfix" goodsId="1363306">
+    <a class="pic" href="http://www.kaola.com/product/1363306.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product3&amp;zn=8-2" data-actda="8-2@@12@@3@@http://www.kaola.com/product/1363306.html" target="_blank" title="D2C 我的新衣《律政俏佳人》系列 林志玲战队黑色小西装">
+  <img class="proImg img-lazyload" 
+       src="http://mm.bst.126.net/images/blank.gif" 
+       lazyload="http://pop.nosdn.127.net/0e3e11c1-68cb-4e0e-98d2-4179ab9b85da?imageView&amp;thumbnail=330x330"
+       data-src="http://pop.nosdn.127.net/0e3e11c1-68cb-4e0e-98d2-4179ab9b85da?imageView&amp;thumbnail=330x330"
+       alt="D2C 我的新衣《律政俏佳人》系列 林志玲战队黑色小西装" 
+       title="D2C 我的新衣《律政俏佳人》系列 林志玲战队黑色小西装" >
+  <span class="proComment" hasComment="0">
+    <span class="bg"></span>
+    <span class="noComment">新品上线，赶快来试试吧！</span>
+  </span>
+
+<img class="w-brand-img" src="http://haitao.nos.netease.com/iczukrul93.JPG" alt="中国" title="中国" />
+
+    </a>
+    <div class="proinfo">
+<h3 class="tit"><a class="titLink" target="_blank" href="http://www.kaola.com/product/1363306.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product3&amp;zn=8-2" data-actda="" title="D2C 我的新衣 林志玲战队黑色小西装">D2C 我的新衣 林志玲战队黑色小西装</a><a target="_blank" href="http://www.kaola.com/product/1363306.html"  data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product3&amp;zn=8-2" data-actda="" title="职场神奇黑色小西装">职场神奇黑色小西装</a></h3><ul class="tags clearfix">
+  <li class="tagItem">包邮</li>
+</ul>
+<p class="w-price"><strong><span class="symbol"><b></b>¥</span>975</strong><i class="tl">¥<del>1499</del></i></p>
+            <a class="cart-btn cart-btn-1" 
+               href="http://www.kaola.com/product/1363306.html" 
+               data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product3&amp;zn=8-2" 
+               data-actda="8-2@@12@@3@@http://www.kaola.com/product/1363306.html"
+               target="_blank" 
+               title="立即购买" 
+               rel="nofollow"
+               style="background-color:#d22147;color:#ffffff"
+            >立即购买</a>    </div>
+</div>
+<div class="detailWrap clearfix" goodsId="1362990">
+    <a class="pic" href="http://www.kaola.com/product/1362990.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product4&amp;zn=8-2" data-actda="8-2@@12@@4@@http://www.kaola.com/product/1362990.html" target="_blank" title="D2C 我的新衣《律政俏佳人》系列 林志玲战队 时尚抹胸腰带白色连体裤">
+  <img class="proImg img-lazyload" 
+       src="http://mm.bst.126.net/images/blank.gif" 
+       lazyload="http://pop.nosdn.127.net/11f42979-8dc2-47ef-8cf9-fdb2dbedb1bd?imageView&amp;thumbnail=330x330"
+       data-src="http://pop.nosdn.127.net/11f42979-8dc2-47ef-8cf9-fdb2dbedb1bd?imageView&amp;thumbnail=330x330"
+       alt="D2C 我的新衣《律政俏佳人》系列 林志玲战队 时尚抹胸腰带白色连体裤" 
+       title="D2C 我的新衣《律政俏佳人》系列 林志玲战队 时尚抹胸腰带白色连体裤" >
+  <span class="proComment" hasComment="0">
+    <span class="bg"></span>
+    <span class="noComment">新品上线，赶快来试试吧！</span>
+  </span>
+
+<img class="w-brand-img" src="http://haitao.nos.netease.com/iczukrul93.JPG" alt="中国" title="中国" />
+
+    </a>
+    <div class="proinfo">
+<h3 class="tit"><a class="titLink" target="_blank" href="http://www.kaola.com/product/1362990.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product4&amp;zn=8-2" data-actda="" title="D2C 我的新衣 林志玲战队抹胸连体裤">D2C 我的新衣 林志玲战队抹胸连体裤</a><a target="_blank" href="http://www.kaola.com/product/1362990.html"  data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product4&amp;zn=8-2" data-actda="" title="简单的时尚独显好身材">简单的时尚独显好身材</a></h3><ul class="tags clearfix">
+  <li class="tagItem">包邮</li>
+</ul>
+<p class="w-price"><strong><span class="symbol"><b></b>¥</span>975</strong><i class="tl">¥<del>1499</del></i></p>
+            <a class="cart-btn cart-btn-1" 
+               href="http://www.kaola.com/product/1362990.html" 
+               data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product4&amp;zn=8-2" 
+               data-actda="8-2@@12@@4@@http://www.kaola.com/product/1362990.html"
+               target="_blank" 
+               title="立即购买" 
+               rel="nofollow"
+               style="background-color:#d22147;color:#ffffff"
+            >立即购买</a>    </div>
+</div>
+<div class="detailWrap clearfix" goodsId="1363294">
+    <a class="pic" href="http://www.kaola.com/product/1363294.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product5&amp;zn=8-2" data-actda="8-2@@12@@5@@http://www.kaola.com/product/1363294.html" target="_blank" title="D2C 我的新衣《律政俏佳人》系列 林志玲战队雪纺拼接连衣裙">
+  <img class="proImg img-lazyload" 
+       src="http://mm.bst.126.net/images/blank.gif" 
+       lazyload="http://pop.nosdn.127.net/3bab06d1-4efd-4742-995e-5017a929f5c9?imageView&amp;thumbnail=330x330"
+       data-src="http://pop.nosdn.127.net/3bab06d1-4efd-4742-995e-5017a929f5c9?imageView&amp;thumbnail=330x330"
+       alt="D2C 我的新衣《律政俏佳人》系列 林志玲战队雪纺拼接连衣裙" 
+       title="D2C 我的新衣《律政俏佳人》系列 林志玲战队雪纺拼接连衣裙" >
+  <span class="proComment" hasComment="0">
+    <span class="bg"></span>
+    <span class="noComment">新品上线，赶快来试试吧！</span>
+  </span>
+
+<img class="w-brand-img" src="http://haitao.nos.netease.com/iczukrul93.JPG" alt="中国" title="中国" />
+
+    </a>
+    <div class="proinfo">
+<h3 class="tit"><a class="titLink" target="_blank" href="http://www.kaola.com/product/1363294.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product5&amp;zn=8-2" data-actda="" title="D2C 我的新衣 林志玲战队雪纺拼接连衣裙">D2C 我的新衣 林志玲战队雪纺拼接连衣裙</a><a target="_blank" href="http://www.kaola.com/product/1363294.html"  data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product5&amp;zn=8-2" data-actda="" title="干练利落市场简约诱惑">干练利落市场简约诱惑</a></h3><ul class="tags clearfix">
+  <li class="tagItem">包邮</li>
+</ul>
+<p class="w-price"><strong><span class="symbol"><b></b>¥</span>1299</strong><i class="tl">¥<del>1999</del></i></p>
+            <a class="cart-btn cart-btn-1" 
+               href="http://www.kaola.com/product/1363294.html" 
+               data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product5&amp;zn=8-2" 
+               data-actda="8-2@@12@@5@@http://www.kaola.com/product/1363294.html"
+               target="_blank" 
+               title="立即购买" 
+               rel="nofollow"
+               style="background-color:#d22147;color:#ffffff"
+            >立即购买</a>    </div>
+</div>
+<div class="detailWrap clearfix" goodsId="1363337">
+    <a class="pic" href="http://www.kaola.com/product/1363337.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product6&amp;zn=8-2" data-actda="8-2@@12@@6@@http://www.kaola.com/product/1363337.html" target="_blank" title="D2C 我的新衣 《律政俏佳人》系列 林志玲战队荷叶边外套">
+  <img class="proImg img-lazyload" 
+       src="http://mm.bst.126.net/images/blank.gif" 
+       lazyload="http://pop.nosdn.127.net/5ac4b9bd-04d0-48ab-9c90-8d1541b08bb7?imageView&amp;thumbnail=330x330"
+       data-src="http://pop.nosdn.127.net/5ac4b9bd-04d0-48ab-9c90-8d1541b08bb7?imageView&amp;thumbnail=330x330"
+       alt="D2C 我的新衣 《律政俏佳人》系列 林志玲战队荷叶边外套" 
+       title="D2C 我的新衣 《律政俏佳人》系列 林志玲战队荷叶边外套" >
+  <span class="proComment" hasComment="0">
+    <span class="bg"></span>
+    <span class="noComment">新品上线，赶快来试试吧！</span>
+  </span>
+
+<img class="w-brand-img" src="http://haitao.nos.netease.com/iczukrul93.JPG" alt="中国" title="中国" />
+
+    </a>
+    <div class="proinfo">
+<h3 class="tit"><a class="titLink" target="_blank" href="http://www.kaola.com/product/1363337.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product6&amp;zn=8-2" data-actda="" title="D2C 我的新衣 林志玲战队荷叶边外套">D2C 我的新衣 林志玲战队荷叶边外套</a><a target="_blank" href="http://www.kaola.com/product/1363337.html"  data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product6&amp;zn=8-2" data-actda="" title="纯白高贵宫廷气质">纯白高贵宫廷气质</a></h3><ul class="tags clearfix">
+  <li class="tagItem">包邮</li>
+</ul>
+<p class="w-price"><strong><span class="symbol"><b></b>¥</span>799</strong><i class="tl">¥<del>1599</del></i></p>
+            <a class="cart-btn cart-btn-1" 
+               href="http://www.kaola.com/product/1363337.html" 
+               data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product6&amp;zn=8-2" 
+               data-actda="8-2@@12@@6@@http://www.kaola.com/product/1363337.html"
+               target="_blank" 
+               title="立即购买" 
+               rel="nofollow"
+               style="background-color:#d22147;color:#ffffff"
+            >立即购买</a>    </div>
+</div>
+<div class="detailWrap clearfix" goodsId="1362767">
+    <a class="pic" href="http://www.kaola.com/product/1362767.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product7&amp;zn=8-2" data-actda="8-2@@12@@7@@http://www.kaola.com/product/1362767.html" target="_blank" title="D2C 我的新衣《律政俏佳人》系列 林志玲战队 职业范包臀连衣裙">
+  <img class="proImg img-lazyload" 
+       src="http://mm.bst.126.net/images/blank.gif" 
+       lazyload="http://pop.nosdn.127.net/06704b6c-90ad-4b95-acf8-437f62224441?imageView&amp;thumbnail=330x330"
+       data-src="http://pop.nosdn.127.net/06704b6c-90ad-4b95-acf8-437f62224441?imageView&amp;thumbnail=330x330"
+       alt="D2C 我的新衣《律政俏佳人》系列 林志玲战队 职业范包臀连衣裙" 
+       title="D2C 我的新衣《律政俏佳人》系列 林志玲战队 职业范包臀连衣裙" >
+  <span class="proComment" hasComment="0">
+    <span class="bg"></span>
+    <span class="noComment">新品上线，赶快来试试吧！</span>
+  </span>
+
+<img class="w-brand-img" src="http://haitao.nos.netease.com/iczukrul93.JPG" alt="中国" title="中国" />
+
+    </a>
+    <div class="proinfo">
+<h3 class="tit"><a class="titLink" target="_blank" href="http://www.kaola.com/product/1362767.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product7&amp;zn=8-2" data-actda="" title="D2C 我的新衣 林志玲战队职业包臀裙">D2C 我的新衣 林志玲战队职业包臀裙</a><a target="_blank" href="http://www.kaola.com/product/1362767.html"  data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product7&amp;zn=8-2" data-actda="" title="性感诱人包臀裙">性感诱人包臀裙</a></h3><ul class="tags clearfix">
+  <li class="tagItem">包邮</li>
+</ul>
+<p class="w-price"><strong><span class="symbol"><b></b>¥</span>975</strong><i class="tl">¥<del>1499</del></i></p>
+            <a class="cart-btn cart-btn-1" 
+               href="http://www.kaola.com/product/1362767.html" 
+               data-param="ri=17439&amp;rt=product&amp;zid=zid_5840169779&amp;zp=product7&amp;zn=8-2" 
+               data-actda="8-2@@12@@7@@http://www.kaola.com/product/1362767.html"
+               target="_blank" 
+               title="立即购买" 
+               rel="nofollow"
+               style="background-color:#d22147;color:#ffffff"
+            >立即购买</a>    </div>
+</div>
+</div>
+</section>
+</article>
+  <article class="imgWrap" id="zid_3769256465" >
+
+      <section class="imglayout1 " style="height:395px;overflow:hidden;">
+        <div class="oneimg" style="height:395px;background:url(http://haitao.nosdn3.127.net/isvo0u0g13_1116_395.jpg?imageView&amp;thumbnail=0x395&amp;quality=90) no-repeat center top;"></div>
+      </section> 
+  </article>
+  <article class="imgWrap" id="zid_6978484389" >
+
+      <section class="imglayout1 " style="height:1150px;overflow:hidden;">
+        <div class="oneimg" style="height:1150px;background:url(http://haitao.nosdn3.127.net/isx9wbkv87_1920_1150.jpg?imageView&amp;thumbnail=0x1150&amp;quality=90) no-repeat center top;"></div>
+      </section> 
+  </article>
+<article id="zid_8951736040"  class="m-goodsarea js-goodsarea" style="background-repeat:repeat;">
+<section class="lineOfFour">
+<div class="goodsWrap clearfix">
+<div class="detailWrap clearfix" goodsId="1363253">
+    <a class="pic" href="http://www.kaola.com/product/1363253.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product1&amp;zn=11-1" data-actda="11-1@@15@@1@@http://www.kaola.com/product/1363253.html" target="_blank" title="D2C 我的新衣 杨娟 《哈利波特》系列 银珠女王斗篷">
+  <img class="proImg img-lazyload" 
+       src="http://mm.bst.126.net/images/blank.gif" 
+       lazyload="http://pop.nosdn.127.net/0ed527c6-5453-46a5-b95a-eadcc1e146df?imageView&amp;thumbnail=330x330"
+       data-src="http://pop.nosdn.127.net/0ed527c6-5453-46a5-b95a-eadcc1e146df?imageView&amp;thumbnail=330x330"
+       alt="D2C 我的新衣 杨娟 《哈利波特》系列 银珠女王斗篷" 
+       title="D2C 我的新衣 杨娟 《哈利波特》系列 银珠女王斗篷" >
+  <span class="proComment" hasComment="0">
+    <span class="bg"></span>
+    <span class="noComment">新品上线，赶快来试试吧！</span>
+  </span>
+
+<img class="w-brand-img" src="http://haitao.nos.netease.com/iczukrul93.JPG" alt="中国" title="中国" />
+
+    </a>
+    <div class="proinfo">
+<h3 class="tit"><a class="titLink" target="_blank" href="http://www.kaola.com/product/1363253.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product1&amp;zn=11-1" data-actda="" title="D2C 我的新衣 杨娟系列 女王斗篷">D2C 我的新衣 杨娟系列 女王斗篷</a><a target="_blank" href="http://www.kaola.com/product/1363253.html"  data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product1&amp;zn=11-1" data-actda="" title="秋冬时髦不过斗篷">秋冬时髦不过斗篷</a></h3><ul class="tags clearfix">
+  <li class="tagItem">包邮</li>
+</ul>
+<p class="w-price"><strong><span class="symbol"><b></b>¥</span>1499</strong><i class="tl">¥<del>2999</del></i></p>
+            <a class="cart-btn cart-btn-1" 
+               href="http://www.kaola.com/product/1363253.html" 
+               data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product1&amp;zn=11-1" 
+               data-actda="11-1@@15@@1@@http://www.kaola.com/product/1363253.html"
+               target="_blank" 
+               title="立即购买" 
+               rel="nofollow"
+               style="background-color:#d22147;color:#ffffff"
+            >立即购买</a>    </div>
+</div>
+<div class="detailWrap clearfix" goodsId="1363273">
+    <a class="pic" href="http://www.kaola.com/product/1363273.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product2&amp;zn=11-1" data-actda="11-1@@15@@2@@http://www.kaola.com/product/1363273.html" target="_blank" title="D2C 我的新衣 杨娟 《哈利波特》系 超长袖子针织衫">
+  <img class="proImg img-lazyload" 
+       src="http://mm.bst.126.net/images/blank.gif" 
+       lazyload="http://pop.nosdn.127.net/2856077b-eca4-4a77-92d9-48065ef57ad9?imageView&amp;thumbnail=330x330"
+       data-src="http://pop.nosdn.127.net/2856077b-eca4-4a77-92d9-48065ef57ad9?imageView&amp;thumbnail=330x330"
+       alt="D2C 我的新衣 杨娟 《哈利波特》系 超长袖子针织衫" 
+       title="D2C 我的新衣 杨娟 《哈利波特》系 超长袖子针织衫" >
+  <span class="proComment" hasComment="0">
+    <span class="bg"></span>
+    <span class="noComment">新品上线，赶快来试试吧！</span>
+  </span>
+
+<img class="w-brand-img" src="http://haitao.nos.netease.com/iczukrul93.JPG" alt="中国" title="中国" />
+
+    </a>
+    <div class="proinfo">
+<h3 class="tit"><a class="titLink" target="_blank" href="http://www.kaola.com/product/1363273.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product2&amp;zn=11-1" data-actda="" title="D2C 我的新衣 杨娟系列 超长袖子针织衫">D2C 我的新衣 杨娟系列 超长袖子针织衫</a><a target="_blank" href="http://www.kaola.com/product/1363273.html"  data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product2&amp;zn=11-1" data-actda="" title="百搭打底衣橱必收">百搭打底衣橱必收</a></h3><ul class="tags clearfix">
+  <li class="tagItem">包邮</li>
+</ul>
+<p class="w-price"><strong><span class="symbol"><b></b>¥</span>389</strong><i class="tl">¥<del>599</del></i></p>
+            <a class="cart-btn cart-btn-1" 
+               href="http://www.kaola.com/product/1363273.html" 
+               data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product2&amp;zn=11-1" 
+               data-actda="11-1@@15@@2@@http://www.kaola.com/product/1363273.html"
+               target="_blank" 
+               title="立即购买" 
+               rel="nofollow"
+               style="background-color:#d22147;color:#ffffff"
+            >立即购买</a>    </div>
+</div>
+<div class="detailWrap clearfix" goodsId="1363260">
+    <a class="pic" href="http://www.kaola.com/product/1363260.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product3&amp;zn=11-1" data-actda="11-1@@15@@3@@http://www.kaola.com/product/1363260.html" target="_blank" title="D2C 我的新衣 杨娟同款 《哈利波特》系 性感一字肩修身连衣裙">
+  <img class="proImg img-lazyload" 
+       src="http://mm.bst.126.net/images/blank.gif" 
+       lazyload="http://pop.nosdn.127.net/eed0692b-4ea7-48a1-9b64-1da0127aafa6?imageView&amp;thumbnail=330x330"
+       data-src="http://pop.nosdn.127.net/eed0692b-4ea7-48a1-9b64-1da0127aafa6?imageView&amp;thumbnail=330x330"
+       alt="D2C 我的新衣 杨娟同款 《哈利波特》系 性感一字肩修身连衣裙" 
+       title="D2C 我的新衣 杨娟同款 《哈利波特》系 性感一字肩修身连衣裙" >
+  <span class="proComment" hasComment="0">
+    <span class="bg"></span>
+    <span class="noComment">新品上线，赶快来试试吧！</span>
+  </span>
+
+<img class="w-brand-img" src="http://haitao.nos.netease.com/iczukrul93.JPG" alt="中国" title="中国" />
+
+    </a>
+    <div class="proinfo">
+<h3 class="tit"><a class="titLink" target="_blank" href="http://www.kaola.com/product/1363260.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product3&amp;zn=11-1" data-actda="" title="D2C 我的新衣 杨娟同款 修身连衣裙">D2C 我的新衣 杨娟同款 修身连衣裙</a><a target="_blank" href="http://www.kaola.com/product/1363260.html"  data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product3&amp;zn=11-1" data-actda="" title="惊艳性感定是修身连衣裙">惊艳性感定是修身连衣裙</a></h3><ul class="tags clearfix">
+  <li class="tagItem">包邮</li>
+</ul>
+<p class="w-price"><strong><span class="symbol"><b></b>¥</span>799</strong><i class="tl">¥<del>1799</del></i></p>
+            <a class="cart-btn cart-btn-1" 
+               href="http://www.kaola.com/product/1363260.html" 
+               data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product3&amp;zn=11-1" 
+               data-actda="11-1@@15@@3@@http://www.kaola.com/product/1363260.html"
+               target="_blank" 
+               title="立即购买" 
+               rel="nofollow"
+               style="background-color:#d22147;color:#ffffff"
+            >立即购买</a>    </div>
+</div>
+<div class="detailWrap clearfix" goodsId="1363249">
+    <a class="pic" href="http://www.kaola.com/product/1363249.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product4&amp;zn=11-1" data-actda="11-1@@15@@4@@http://www.kaola.com/product/1363249.html" target="_blank" title="D2C 我的新衣 杨娟《哈利波特》系列 翻驳领双排扣飘带长款修身外套">
+  <img class="proImg img-lazyload" 
+       src="http://mm.bst.126.net/images/blank.gif" 
+       lazyload="http://pop.nosdn.127.net/2daa9f4a-e821-40ba-b9a5-773101e92ee0?imageView&amp;thumbnail=330x330"
+       data-src="http://pop.nosdn.127.net/2daa9f4a-e821-40ba-b9a5-773101e92ee0?imageView&amp;thumbnail=330x330"
+       alt="D2C 我的新衣 杨娟《哈利波特》系列 翻驳领双排扣飘带长款修身外套" 
+       title="D2C 我的新衣 杨娟《哈利波特》系列 翻驳领双排扣飘带长款修身外套" >
+  <span class="proComment" hasComment="0">
+    <span class="bg"></span>
+    <span class="noComment">新品上线，赶快来试试吧！</span>
+  </span>
+
+<img class="w-brand-img" src="http://haitao.nos.netease.com/iczukrul93.JPG" alt="中国" title="中国" />
+
+    </a>
+    <div class="proinfo">
+<h3 class="tit"><a class="titLink" target="_blank" href="http://www.kaola.com/product/1363249.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product4&amp;zn=11-1" data-actda="" title="D2C 我的新衣 杨娟系列 长款修身外套">D2C 我的新衣 杨娟系列 长款修身外套</a><a target="_blank" href="http://www.kaola.com/product/1363249.html"  data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product4&amp;zn=11-1" data-actda="" title="风度翩翩帅气逼人">风度翩翩帅气逼人</a></h3><ul class="tags clearfix">
+  <li class="tagItem">包邮</li>
+</ul>
+<p class="w-price"><strong><span class="symbol"><b></b>¥</span>2499</strong><i class="tl">¥<del>6800</del></i></p>
+            <a class="cart-btn cart-btn-1" 
+               href="http://www.kaola.com/product/1363249.html" 
+               data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product4&amp;zn=11-1" 
+               data-actda="11-1@@15@@4@@http://www.kaola.com/product/1363249.html"
+               target="_blank" 
+               title="立即购买" 
+               rel="nofollow"
+               style="background-color:#d22147;color:#ffffff"
+            >立即购买</a>    </div>
+</div>
+<div class="detailWrap clearfix" goodsId="1363204">
+    <a class="pic" href="http://www.kaola.com/product/1363204.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product5&amp;zn=11-1" data-actda="11-1@@15@@5@@http://www.kaola.com/product/1363204.html" target="_blank" title="D2C 我的新衣 杨娟 《哈利波特》 银珠装饰暗扣黑色无袖小马甲">
+  <img class="proImg img-lazyload" 
+       src="http://mm.bst.126.net/images/blank.gif" 
+       lazyload="http://pop.nosdn.127.net/b98f39b8-99e9-4e9c-874b-933c0b900774?imageView&amp;thumbnail=330x330"
+       data-src="http://pop.nosdn.127.net/b98f39b8-99e9-4e9c-874b-933c0b900774?imageView&amp;thumbnail=330x330"
+       alt="D2C 我的新衣 杨娟 《哈利波特》 银珠装饰暗扣黑色无袖小马甲" 
+       title="D2C 我的新衣 杨娟 《哈利波特》 银珠装饰暗扣黑色无袖小马甲" >
+  <span class="proComment" hasComment="0">
+    <span class="bg"></span>
+    <span class="noComment">新品上线，赶快来试试吧！</span>
+  </span>
+
+<img class="w-brand-img" src="http://haitao.nos.netease.com/iczukrul93.JPG" alt="中国" title="中国" />
+
+    </a>
+    <div class="proinfo">
+<h3 class="tit"><a class="titLink" target="_blank" href="http://www.kaola.com/product/1363204.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product5&amp;zn=11-1" data-actda="" title="D2C 我的新衣 杨娟系列 黑色无袖小马甲">D2C 我的新衣 杨娟系列 黑色无袖小马甲</a><a target="_blank" href="http://www.kaola.com/product/1363204.html"  data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product5&amp;zn=11-1" data-actda="" title="个性小马甲凸显你的个性">个性小马甲凸显你的个性</a></h3><ul class="tags clearfix">
+  <li class="tagItem">包邮</li>
+</ul>
+<p class="w-price"><strong><span class="symbol"><b></b>¥</span>1937</strong><i class="tl">¥<del>2980</del></i></p>
+            <a class="cart-btn cart-btn-1" 
+               href="http://www.kaola.com/product/1363204.html" 
+               data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product5&amp;zn=11-1" 
+               data-actda="11-1@@15@@5@@http://www.kaola.com/product/1363204.html"
+               target="_blank" 
+               title="立即购买" 
+               rel="nofollow"
+               style="background-color:#d22147;color:#ffffff"
+            >立即购买</a>    </div>
+</div>
+<div class="detailWrap clearfix" goodsId="1363262">
+    <a class="pic" href="http://www.kaola.com/product/1363262.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product6&amp;zn=11-1" data-actda="11-1@@15@@6@@http://www.kaola.com/product/1363262.html" target="_blank" title="D2C 我的新衣 杨娟 《哈利波特》系列 竖条纹银珠黑色半身裙">
+  <img class="proImg img-lazyload" 
+       src="http://mm.bst.126.net/images/blank.gif" 
+       lazyload="http://pop.nosdn.127.net/254bfd5a-11d5-4883-a5ce-2a806aa8226e?imageView&amp;thumbnail=330x330"
+       data-src="http://pop.nosdn.127.net/254bfd5a-11d5-4883-a5ce-2a806aa8226e?imageView&amp;thumbnail=330x330"
+       alt="D2C 我的新衣 杨娟 《哈利波特》系列 竖条纹银珠黑色半身裙" 
+       title="D2C 我的新衣 杨娟 《哈利波特》系列 竖条纹银珠黑色半身裙" >
+  <span class="proComment" hasComment="0">
+    <span class="bg"></span>
+    <span class="noComment">新品上线，赶快来试试吧！</span>
+  </span>
+
+<img class="w-brand-img" src="http://haitao.nos.netease.com/iczukrul93.JPG" alt="中国" title="中国" />
+
+    </a>
+    <div class="proinfo">
+<h3 class="tit"><a class="titLink" target="_blank" href="http://www.kaola.com/product/1363262.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product6&amp;zn=11-1" data-actda="" title="D2C 我的新衣 杨娟系列 银珠半身裙">D2C 我的新衣 杨娟系列 银珠半身裙</a><a target="_blank" href="http://www.kaola.com/product/1363262.html"  data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product6&amp;zn=11-1" data-actda="" title="银珠高级定制更惊艳">银珠高级定制更惊艳</a></h3><ul class="tags clearfix">
+  <li class="tagItem">包邮</li>
+</ul>
+<p class="w-price"><strong><span class="symbol"><b></b>¥</span>1235</strong><i class="tl">¥<del>1899</del></i></p>
+            <a class="cart-btn cart-btn-1" 
+               href="http://www.kaola.com/product/1363262.html" 
+               data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product6&amp;zn=11-1" 
+               data-actda="11-1@@15@@6@@http://www.kaola.com/product/1363262.html"
+               target="_blank" 
+               title="立即购买" 
+               rel="nofollow"
+               style="background-color:#d22147;color:#ffffff"
+            >立即购买</a>    </div>
+</div>
+<div class="detailWrap clearfix" goodsId="1363215">
+    <a class="pic" href="http://www.kaola.com/product/1363215.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product7&amp;zn=11-1" data-actda="11-1@@15@@7@@http://www.kaola.com/product/1363215.html" target="_blank" title="D2C 我的新衣 杨娟 《哈利波特》系列 拼接西装马甲">
+  <img class="proImg img-lazyload" 
+       src="http://mm.bst.126.net/images/blank.gif" 
+       lazyload="http://pop.nosdn.127.net/c0e7756d-f57e-481b-9b13-c32f22006d95?imageView&amp;thumbnail=330x330"
+       data-src="http://pop.nosdn.127.net/c0e7756d-f57e-481b-9b13-c32f22006d95?imageView&amp;thumbnail=330x330"
+       alt="D2C 我的新衣 杨娟 《哈利波特》系列 拼接西装马甲" 
+       title="D2C 我的新衣 杨娟 《哈利波特》系列 拼接西装马甲" >
+  <span class="proComment" hasComment="0">
+    <span class="bg"></span>
+    <span class="noComment">新品上线，赶快来试试吧！</span>
+  </span>
+
+<img class="w-brand-img" src="http://haitao.nos.netease.com/iczukrul93.JPG" alt="中国" title="中国" />
+
+    </a>
+    <div class="proinfo">
+<h3 class="tit"><a class="titLink" target="_blank" href="http://www.kaola.com/product/1363215.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product7&amp;zn=11-1" data-actda="" title="D2C 我的新衣 杨娟系列 拼接西装马甲">D2C 我的新衣 杨娟系列 拼接西装马甲</a><a target="_blank" href="http://www.kaola.com/product/1363215.html"  data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product7&amp;zn=11-1" data-actda="" title="白领必买首选款">白领必买首选款</a></h3><ul class="tags clearfix">
+  <li class="tagItem">包邮</li>
+</ul>
+<p class="w-price"><strong><span class="symbol"><b></b>¥</span>1559</strong><i class="tl">¥<del>2880</del></i></p>
+            <a class="cart-btn cart-btn-1" 
+               href="http://www.kaola.com/product/1363215.html" 
+               data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product7&amp;zn=11-1" 
+               data-actda="11-1@@15@@7@@http://www.kaola.com/product/1363215.html"
+               target="_blank" 
+               title="立即购买" 
+               rel="nofollow"
+               style="background-color:#d22147;color:#ffffff"
+            >立即购买</a>    </div>
+</div>
+<div class="detailWrap clearfix" goodsId="1363195">
+    <a class="pic" href="http://www.kaola.com/product/1363195.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product8&amp;zn=11-1" data-actda="11-1@@15@@8@@http://www.kaola.com/product/1363195.html" target="_blank" title="D2C 我的新衣 杨娟 《哈利波特》系列 V领露背包臀连衣裙">
+  <img class="proImg img-lazyload" 
+       src="http://mm.bst.126.net/images/blank.gif" 
+       lazyload="http://pop.nosdn.127.net/62862232-94e7-4d46-8b13-995a6edb1053?imageView&amp;thumbnail=330x330"
+       data-src="http://pop.nosdn.127.net/62862232-94e7-4d46-8b13-995a6edb1053?imageView&amp;thumbnail=330x330"
+       alt="D2C 我的新衣 杨娟 《哈利波特》系列 V领露背包臀连衣裙" 
+       title="D2C 我的新衣 杨娟 《哈利波特》系列 V领露背包臀连衣裙" >
+  <span class="proComment" hasComment="0">
+    <span class="bg"></span>
+    <span class="noComment">新品上线，赶快来试试吧！</span>
+  </span>
+
+<img class="w-brand-img" src="http://haitao.nos.netease.com/iczukrul93.JPG" alt="中国" title="中国" />
+
+    </a>
+    <div class="proinfo">
+<h3 class="tit"><a class="titLink" target="_blank" href="http://www.kaola.com/product/1363195.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product8&amp;zn=11-1" data-actda="" title="D2C 我的新衣 杨娟系列 V领包臀连衣裙">D2C 我的新衣 杨娟系列 V领包臀连衣裙</a><a target="_blank" href="http://www.kaola.com/product/1363195.html"  data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product8&amp;zn=11-1" data-actda="" title="化身性感黑系美人鱼">化身性感黑系美人鱼</a></h3><ul class="tags clearfix">
+  <li class="tagItem">包邮</li>
+</ul>
+<p class="w-price"><strong><span class="symbol"><b></b>¥</span>2399</strong><i class="tl">¥<del>3880</del></i></p>
+            <a class="cart-btn cart-btn-1" 
+               href="http://www.kaola.com/product/1363195.html" 
+               data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product8&amp;zn=11-1" 
+               data-actda="11-1@@15@@8@@http://www.kaola.com/product/1363195.html"
+               target="_blank" 
+               title="立即购买" 
+               rel="nofollow"
+               style="background-color:#d22147;color:#ffffff"
+            >立即购买</a>    </div>
+</div>
+<div class="detailWrap clearfix" goodsId="1363257">
+    <a class="pic" href="http://www.kaola.com/product/1363257.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product9&amp;zn=11-1" data-actda="11-1@@15@@9@@http://www.kaola.com/product/1363257.html" target="_blank" title="D2C 我的新衣 杨娟战队 《哈利波特》系列 复古宫廷连衣裙">
+  <img class="proImg img-lazyload" 
+       src="http://mm.bst.126.net/images/blank.gif" 
+       lazyload="http://pop.nosdn.127.net/fa297a24-0f15-4765-88b4-6382d00fc81d?imageView&amp;thumbnail=330x330"
+       data-src="http://pop.nosdn.127.net/fa297a24-0f15-4765-88b4-6382d00fc81d?imageView&amp;thumbnail=330x330"
+       alt="D2C 我的新衣 杨娟战队 《哈利波特》系列 复古宫廷连衣裙" 
+       title="D2C 我的新衣 杨娟战队 《哈利波特》系列 复古宫廷连衣裙" >
+  <span class="proComment" hasComment="0">
+    <span class="bg"></span>
+    <span class="noComment">新品上线，赶快来试试吧！</span>
+  </span>
+
+<img class="w-brand-img" src="http://haitao.nos.netease.com/iczukrul93.JPG" alt="中国" title="中国" />
+
+    </a>
+    <div class="proinfo">
+<h3 class="tit"><a class="titLink" target="_blank" href="http://www.kaola.com/product/1363257.html" data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product9&amp;zn=11-1" data-actda="" title="D2C 我的新衣 杨娟战队 复古宫廷连衣裙">D2C 我的新衣 杨娟战队 复古宫廷连衣裙</a><a target="_blank" href="http://www.kaola.com/product/1363257.html"  data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product9&amp;zn=11-1" data-actda="" title="秋款小黑裙女王的典雅">秋款小黑裙女王的典雅</a></h3><ul class="tags clearfix">
+  <li class="tagItem">包邮</li>
+</ul>
+<p class="w-price"><strong><span class="symbol"><b></b>¥</span>1039</strong><i class="tl">¥<del>1599</del></i></p>
+            <a class="cart-btn cart-btn-1" 
+               href="http://www.kaola.com/product/1363257.html" 
+               data-param="ri=17439&amp;rt=product&amp;zid=zid_8951736040&amp;zp=product9&amp;zn=11-1" 
+               data-actda="11-1@@15@@9@@http://www.kaola.com/product/1363257.html"
+               target="_blank" 
+               title="立即购买" 
+               rel="nofollow"
+               style="background-color:#d22147;color:#ffffff"
+            >立即购买</a>    </div>
+</div>
+</div>
+</section>
+</article>
+  <article class="imgWrap" id="zid_4525874140" >
+
+      <section class="imglayout1 " style="height:409px;overflow:hidden;">
+        <div class="oneimg" style="height:409px;background:url(http://haitao.nosdn2.127.net/isvo0zk460_1116_409.jpg?imageView&amp;thumbnail=0x409&amp;quality=90) no-repeat center top;"></div>
+      </section> 
+  </article>
+  <article class="imgWrap" id="zid_8135173354" >
+
+      <section class="imglayout1 " style="height:860px;overflow:hidden;">
+        <div class="oneimg" style="height:860px;background:url(http://haitao.nosdn4.127.net/isxbgkkb82_1920_860.jpg?imageView&amp;thumbnail=0x860&amp;quality=90) no-repeat center top;"></div>
+      </section> 
+  </article>
+</div>
+    <footer id="docFoot">
+      <div class="footBgWrap">
+      	<div class="box">
+        	<div id="btmlist">
+  					<ul class="clearfix">
+    					<li>
+    						<i class="w-icon w-icon-23">&nbsp;</i>
+    						<strong class="tit">100%正品</strong>
+    						<span class="desc">全球精选 正品保障</span>
+    					</li>
+    					<li>
+    						<i class="w-icon w-icon-23 w-icon-23-1">&nbsp;</i>
+    						<strong class="tit">低价保障</strong>
+    						<span class="desc">缩减中间环节 确保低价</span>
+    					</li>
+    					<li>
+    						<i class="w-icon w-icon-23 w-icon-23-2">&nbsp;</i>
+    						<strong class="tit">7天无忧退货</strong>
+    						<span class="desc">国内退货 售后无忧</span>
+    					</li>
+    					<li class="last">
+    						<i class="w-icon w-icon-23 w-icon-23-3">&nbsp;</i>
+    						<strong class="tit">实付满88包邮</strong>
+    						<span class="desc">部分特殊商品除外</span>
+    					</li>
+  					</ul>
+			    </div>
+  				<div id="guideList">
+            <ul class="clearfix">
+              <li class="bd_none first">
+                <a href="http://www.kaola.com/" class="iconfont logokaola" title="网易考拉海购" data-param="zn=footer">&#xe634;</a>
+              	<div class="focuson">
+              		<span class="label">关注我们</span>
+              		<a class="itm" href="http://weibo.com/u/5448480859" target="_blank" rel="nofollow">
+  						      <em class="w-icon w-icon-24"></em>
+  						      <span class="m-notice m-notice-1">
+  					          <img src="http://mm.bst.126.net/images/index/2dcode-wb.jpg?634b5a3e4e8945e9d41cf17e68727219" width="100px" height="100px"/>
+  					          <span class="arrow">
+  					            <span class="arr"></span>
+  					            <span class="arr1"></span>
+  					          </span>
+  					        </span>
+  				        </a>
+    							<a class="itm nolink" href="javascript:void(0);" rel="nofollow">
+    								<em class="w-icon w-icon-24 w-icon-24-1"></em>
+    								<span class="m-notice">
+  					          <img src="http://mm.bst.126.net/images/index/2dcode-wx.jpg?d04ad453c9c1a55a9b4cbbdd2dd114e5" width="100px" height="100px"/>
+  					          <span class="arrow">
+  					            <span class="arr"></span>
+  					            <span class="arr1"></span>
+  					          </span>
+  					        </span>
+    							</a>
+    							<a class="itm nolink" href="javascript:void(0);" rel="nofollow">
+    								<em class="w-icon w-icon-24 w-icon-24-2"></em>
+    								<span class="m-notice m-notice-2">
+  					          <img src="http://mm.bst.126.net/images/index/2dcode-yx.jpg?5f98fa596d59a7026ecd0205486cc52b" width="100px" height="100px"/>
+  					          <span class="arrow">
+  					            <span class="arr"></span>
+  					            <span class="arr1"></span>
+  					          </span>
+  					        </span>
+    							</a>
+  			        </div>
+              </li>
+              <li>
+                <dl>
+                  <dt><em>考拉保障</em></dt>
+                  <dd><a target="_blank" href="http://www.kaola.com/footer/guarante.shtml" title="正品保障" rel="nofollow" data-param="zn=footer">正品保障</a></dd>
+                  <dd><a target="_blank" href="http://www.kaola.com/footer/supervisereport.shtml" title="廉正监督" rel="nofollow" data-param="zn=footer">廉正监督</a></dd>
+                </dl>
+              </li>
+              <li>
+                <dl>
+                  <dt><em>新手指南</em></dt>
+                  <dd><a target="_blank" href="http://www.kaola.com/footer/buy.shtml" title="购物流程" data-param="zn=footer">购物流程</a></dd>
+                  <dd><a target="_blank" href="http://www.kaola.com/footer/epay.shtml" title="支付方式" data-param="zn=footer">支付方式</a></dd>
+                  <dd><a target="_blank" href="http://www.kaola.com/footer/tariff.shtml" title="通关税费" data-param="zn=footer">通关税费</a></dd>
+                  <dd><a target="_blank" href="http://www.kaola.com/footer/faq.shtml" title="常见问题" data-param="zn=footer">常见问题</a></dd>
+                </dl>
+              </li>
+              <li>
+                <dl>
+                  <dt><em>售后服务</em></dt>
+                  <dd><a target="_blank" href="http://www.kaola.com/footer/returnpolicy.shtml" title="退货政策" data-param="zn=footer">退货政策</a></dd>
+                  <dd><a target="_blank" href="http://www.kaola.com/footer/returnprocess.shtml" title="退货流程" data-param="zn=footer">退货流程</a></dd>
+                  <dd><a target="_blank" href="http://www.kaola.com/footer/refund.shtml" title="退款说明" data-param="zn=footer">退款说明</a></dd>
+                  <dd><a title="联系客服" class="j-openService">联系客服</a></dd>
+                </dl>
+              </li>
+              <li>
+                <dl>
+                  <dt><em>物流配送</em></dt>
+                  <dd><a target="_blank" href="http://www.kaola.com/footer/deliverymode.shtml" title="配送方式" data-param="zn=footer">配送方式</a></dd>
+                   <dd><a target="_blank" href="http://www.kaola.com/footer/deliveryservice.shtml" title="配送服务" data-param="zn=footer">配送服务</a></dd>
+  		           <dd><a target="_blank" href="http://www.kaola.com/footer/freight.shtml" title="运费标准" data-param="zn=footer">运费标准</a></dd>
+                  <dd><a target="_blank" href="http://www.kaola.com/footer/logistracking.shtml" title="物流跟踪" data-param="zn=footer">物流跟踪</a></dd>
+                </dl>
+              </li>
+              <li>
+                <dl>
+                  <dt><em>关于我们</em></dt>
+  		            <dd><a target="_blank" href="http://www.kaola.com/footer/contactus.shtml" title="联系我们" rel="nofollow" data-param="zn=footer">联系我们</a></dd>
+  		            <dd><a target="_blank" href="http://www.kaola.com/merchants.html?type=en" title="招商合作" rel="nofollow" data-param="zn=footer">招商合作</a></dd>
+             		  <dd><a target="_blank" href="http://cps.kaola.com/" title="销售联盟" rel="nofollow" data-param="zn=footer">销售联盟</a></dd>
+  		            <dd><a target="_blank" href="http://www.kaola.com/footer/ceomailbox.shtml" title="CEO邮箱" rel="nofollow" data-param="zn=footer">CEO邮箱</a></dd>
+                </dl>
+              </li>
+              <li class="bd_none item last">
+              	<img src="/images/index/2dcode-app.jpg" width="108px" height="108px"/>
+              	<span>扫描下载手机版</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="aboutNEST">
+		    <a href="http://ir.netease.com/phoenix.zhtml?c=122303&p=irol-IRHome" rel="nofollow" target="_blank" title="About NetEase">About NetEase</a> - <a href="http://gb.corp.163.com/gb/about/overview.html" rel="nofollow" target="_blank" title="公司简介">公司简介</a> - <a href="http://gb.corp.163.com/gb/contactus.html" rel="nofollow" target="_blank" title="联系方法">联系方法</a> - <a href="http://www.kaola.com/footer/friendlylink.shtml" target="_blank" title="友情链接" data-param="zn=footer">友情链接</a> - <a href="http://hr.163.com/" rel="nofollow" target="_blank" title="招聘信息">招聘信息</a> - <a href="http://help.163.com/" rel="nofollow" target="_blank" title="客户服务">客户服务</a> - <a href="http://gb.corp.163.com/gb/legal.html" rel="nofollow" target="_blank" title="隐私政策">隐私政策</a> - <a href="http://emarketing.163.com/" rel="nofollow" target="_blank" title="网络营销">网络营销</a> - <a href="http://www.kaola.com/footer/sitemap.shtml" target="_blank" title="网站地图" data-param="zn=footer">网站地图</a> - <a href="http://www.kaola.com/" target="_blank" title="网易考拉海购" data-param="zn=footer">网易考拉海购</a>
+		    <br>
+				<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33010002000066" class="m-license m-license-1">
+				  <img src="http://haitao.nos.netease.com/f28aa8ee818a42bf832341f605eccefb.png"/>
+				</a>
+				<a  target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33010002000066" > 
+				  <span style="margin: 0px 0px 0px 5px;">浙公网安备 33010002000066号</span>
+				</a>
+				<span class="m-license">
+				增值电信业务经营许可证：浙B2-20090185-3
+				</span>
+        <span class="m-license">网络文化经营许可证：浙网文[2016]0155-055号</span>
+				<span class="m-license">网易公司版权所有&copy;1997-2016</span>
+			  <div class="f-tac"><span id="KXYZ"><a href="https://ss.knet.cn/verifyseal.dll?sn=e15040881010058239iy2f000000&amp;ct=df&amp;a=1&amp;pa=20160215" id="kx_verify" tabindex="-1" target="_blank" kx_type="图标式" style="display:inline-block;"><img src="http://haitao.nos.netease.com/d720d83b55a04b6f932ea845c673c5bf.png" alt="可信网站"></a></span><a class="u-shield" href="http://122.224.75.236/wzba/login.do?method=hdurl&doamin=http://www.kaola.com&id=330108000034419&SHID=1223.0AFF_NAME=com.rouger.gs.main.UserInfoAff&AFF_ACTION=qyhzdetail&PAGE_URL=ShowDetail" target="_blank"><img src="http://haitao.nos.netease.com/db9ba5060e9e49fabf3f6cc4b8b6ccf7.jpg" alt="工商营业执照网上标识"></a></div>
+      </div>
+    </footer>
+      
+    <script id="ToptabUrlList">
+	    var hasFixedToptabs=false;
+	    document.body.removeChild(document.getElementById('ToptabUrlList'));
+        window.__cdnBaseUrl = "http://mm.bst.126.net/"
+    </script>
+<script>
+	// 活动id
+	var aitivityId = "17439";
+	var actPageLink = "http://www.kaola.com/activity/detail/17439.shtml";
+	dataLayer = [{ 
+	'google_tag_params': { ecomm_pagetype:"category", ecomm_pcat:"网易考拉海购" } 
+	}]
+</script>
+<script src="http://mm.bst.126.net/res/jslib/ntes.js" type="text/javascript"></script>
+    <script type="text/javascript"> _ntes_nacc = "kaola"; neteaseTracker();</script>
+    <script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA1418953394029'],['_setLocalGifPath', '/UA1418953394029/__utm.gif'],['_setLocalServerMode']);_gaq.push(['_addOrganic','baidu','word']);_gaq.push(['_addOrganic','soso','w']);_gaq.push(['_addOrganic','youdao','q']);_gaq.push(['_addOrganic','sogou','query']);_gaq.push(['_addOrganic','so.360.cn','q']);_gaq.push(['_trackPageview']);_gaq.push(['trackPageLoadTime']);(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = '/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script>
+    <script>
+        var _daq = _daq||[];
+        _daq.push(['_setDomainName','.kaola.com']);
+        (function(i,s,ob,g,r,a,m)
+        {
+            i['AnalyticsObject']=r;
+            i[r] = i[r] || function()
+            {
+                (i[r].ops = i[r].ops || []).push(arguments);
+            }
+            a = s.createElement(ob);
+            a.type = "text/javascript";
+            m = s.getElementsByTagName(ob)[0];
+            a.async=false;
+            a.src=g;
+            m.parentNode.insertBefore(a,m);
+        })(window, document, 'script', 'http://rev.da.netease.com/da.js?t='+parseInt((new Date().getTime())/1000000000), '_dapush');
+          
+        _dapush('create','DA-A250-E78A2EEA7B9E');
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    	})(window,document,'script','dataLayer','GTM-PLXC8J')
+        var _fxcmd=_fxcmd||[];
+    	_fxcmd.sid='909e366ccce1f4c8eac4d0cb77df871d';
+    	_fxcmd.trackAll= false;
+    	(function () { var _pzfx=document['createElement']('script'); _pzfx.type='text/javascript'; _pzfx.async=true; _pzfx.src='//static.w3t.cn/fx/1/1/fx.js'; var sc=document.getElementsByTagName('script')[0]; sc.parentNode.insertBefore(_pzfx,sc); })();
+        var _mvq = window._mvq || [];
+        window._mvq = _mvq;
+        _mvq.push(['$setAccount', 'm-198896-0']);
+        _mvq.push(['$logConversion']);
+        (function() {
+          var mvl = document.createElement('script');
+          mvl.type = 'text/javascript'; mvl.async = true;
+          mvl.src = ('https:' == document.location.protocol ? 'https://static-ssl.mediav.com/mvl.js' : 'http://static.mediav.com/mvl.js');
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(mvl, s);
+        })();
+            var _kaolaUserType = '1';
+            if (0 == '1') {
+                _kaolaUserType = '2';
+                if (0 === 1) {
+                    _kaolaUserType = '3';
+                }
+            }
+            (function(w,d,s,l,a){
+               w[l]=w[l]||function(){w._CommandName_=l;w[l].q=w[l].q||[];var r = arguments;r.length&&w[l].q.push(r)&&w[l]._r&&w[l].$.e(r);
+               w[l].track = function(a){if(a){var m = w[l].q[w[l].q.length-1];(m['t']=a)&&w[l]._r&&w[l].$.t(m)}};return w[l]},w[l](),w[l].a=a,w[l].l=1*new Date();
+               var f = 'https:' == d.location.protocol;var c = d.createElement(s);c.type='text/javascript';c.async=1;
+               c.src=(f ? 'https' : 'http') + '://'+(f?'fm.ipinyou.com':'fm.p0y.cn')+'/j/a.js';
+               var h = d.getElementsByTagName('script')[0];h.parentNode.insertBefore(c, h);
+            })(window,document,'script','py','LY..FqomJcq3bbfw-4VJO-az9P');
+            py('set','user',{'category':_kaolaUserType||'1'});
+            py('event','viewPage');
+                _dapush('page_view');
+   </script>
+    <script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true"></script>
+<script src="http://mm.bst.126.net/r/core.js?3fd4e98ebf9476b4217c2331e9f757ce"></script>
+<script>
+I$(211,'<div class="cntbox">\n\t<div class="u-close" on-click={this.close()} data-category="新人推广" data-event="推广弹框" data-label="关闭"></div>\n\t<img on-click={this.goSite()} width="100%" src={imageUrl} ref="bgimg"/>\n</div>');I$(44,function(t,e,n,i,a,s){var o=s.extend({content:t,data:{width:760,modalName:"m-onlyimgwin m-novicewin"},config:function(t){var n="showNovicePop",i=e._$query2object(location.search.slice(1)),a=i[n];this.data.popid=a;this.data.isHidden=!0;this.data.paraname=n;this.data.cookiename="NTES_KAOLA_NOVICEPOP_"+this.data.popid},init:function(){this.needShow(this.data.popid);this.supr();this.$inject(!1)},needShow:function(t){if(void 0!==t)n.isLogin(function(e){if(!e)this.data.__needShow=this.getCookieStat();if(this.data.__needShow!==!1)this.getNovicePopDataReq(t)}._$bind(this))},getNovicePopDataReq:function(t){a("/outer/window/user/info.html",{method:"POST",norest:!0,data:{id:t},type:"json",onload:function(e){if(e&&200==e.retcode){var n=e.retdata,i=n.paidStatus+n.popupStatus;if(n.url&&n.imageUrl&&0===i){this.data.url=n.url;this.data.imageUrl=n.imageUrl;this.$update();this.hasPopConfirmReq(t);this.$inject(document.body)}else this.resetCookieStat()}else this.resetCookieStat()}._$bind(this),onerror:function(){this.resetCookieStat()}._$bind(this)})},getCookieStat:function(){var t=this.data.cookiename,e=i._$cookie(t);if(e)return!1;else{i._$cookie(t,{value:!0,expires:1});return!0}},resetCookieStat:function(){var t=this.data.cookiename;i._$cookie(t,{value:!1,expires:-1})},hasPopConfirmReq:function(t){a("/outer/window/user/popup.html",{method:"POST",norest:!0,data:{id:t},type:"json"})},goSite:function(){var t=this.data,e=window.location,n=e.pathname,i=n.substring(1,n.lastIndexOf("."));window._dapush&&window._dapush("_trackEvent","外推弹窗","点击","弹窗",{path:i,win_id:t.popid});setTimeout(function(){t.url&&(e.href=t.url)},250)},preventMove:function(t){t.preventDefault()}});return o},211,2,15,11,6,119);I$(46,function(t,e,n,i,a,s,o,r,l,c,d,u,h,f,_){var _;d._$$CodeExchange=t._$klass();_=d._$$CodeExchange._$extend(a._$$EventTarget);_.__init=function(t){this.__supInit(t);this.__addEvent()};_.__addEvent=function(){o(".j-exchangbtn")._$on("click",function(t){var e=this;var n=o(this)._$parent(".j-exchangbox",!0)._$children(".j-codetxt",!0),i=n._$val().trim();if(!s._$hasClassName(e,"z-clicked"))if(i){r("/personal/exchange_coupon_by_password.html",{method:"POST",data:{redeemCode:i},norest:!0,type:"json",onload:function(t){s._$delClassName(e,"z-clicked");if(200==t.retcode){var i='<span class="succdesc"><i class="succ"></i>恭喜，口令兑换成功啦!</span>                                        <a href="/" target="_blank" class="link">立即去逛逛&gt;</a>';c._$allocate({message:i,clazz:"m-dhsuccwin"})._$show();n._$val("")}else if(461==t.retcode)l._$allocate({logincallback:function(){o(e)._$trigger("click")}})._$show();else c._$allocate({message:t.retdesc||"兑换出错"})._$show()}._$bind(this)});s._$addClassName(e,"z-clicked")}else c._$allocate({message:"请输入口令！"})._$show()})};return d._$$CodeExchange},1,2,15,3,23,4,25,6,7,8);I$(47,function(t,e,n,i,a,s,o,r,l,c,d,u,h,f,_,p,m,g,v,$,y,b,w,C,P,x,k){var k;var T=t._$klass();k=T._$extend(l);k.__init=function(t){this.__supInit(t);this.__getNodes();this.__addEvent();this.__initNovicepop();s.criteo({event:"viewHome"})};k.__getNodes=function(){};k.__addEvent=function(){c._$allocate();o._$allocate();d._$allocate();u._$allocate();f._$allocate();var t=h._$allocate({cbloginOk:this.__cbLoginOk._$bind(this)});v._$allocate({cbloginOk:this.__cbLoginOk._$bind(this),onSuccess:t._$onSuccess._$bind(t),onExchanged:t._$onExchanged._$bind(t)});_._$allocate();p._$allocate();g._$allocate();$._$allocate();y._$allocate({goodsChange:this.__cbSeckillArea._$bind(this),cbloginOk:this.__cbLoginOk._$bind(this)});b._$allocate()};k.__cbSeckillArea=function(){n._$dispatchEvent(window,"scroll")};k.__cbLoginOk=function(){this._$refreshTopbar()};k.__initNovicepop=function(){this.__novicepop=new m};T._$allocate()},1,2,3,23,4,15,24,25,5,29,30,31,32,33,34,35,44,36,37,40,45,46);
+//# sourceMappingURL=/r/s/pt_pages_activity_activityTpl_activityTpl.js.map
+</script>
+</body>
+</html>
